@@ -178,25 +178,25 @@ imagenfondo Imagen=new imagenfondo();
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    private void jTextArea1PropertyChange(java.beans.PropertyChangeEvent evt) {//GEN-FIRST:event_jTextArea1PropertyChange
+    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
-
-        jTextArea1.setText("Aplicaciones. El uso del actinio es casi \n"
-                + "exclusivo para investigaciones científicas. \n"
-                + "La radiactividad del actinio es del orden de \n"
-                + "150 veces la del radio, haciéndolo útil como \n"
-                + "fuente de neutrones; al margen de ello, no tiene \n"
-                + "aplicaciones industriales significativas.");
-    }//GEN-LAST:event_jTextArea1PropertyChange
+        this.dispose();
+    }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton1MouseClicked
         // TODO add your handling code here:
     }//GEN-LAST:event_jButton1MouseClicked
 
-    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+    private void jTextArea1PropertyChange(java.beans.PropertyChangeEvent evt) {//GEN-FIRST:event_jTextArea1PropertyChange
         // TODO add your handling code here:
-        this.dispose();
-    }//GEN-LAST:event_jButton1ActionPerformed
+
+        jTextArea1.setText("Aplicaciones. El uso del actinio es casi \n"
+            + "exclusivo para investigaciones científicas. \n"
+            + "La radiactividad del actinio es del orden de \n"
+            + "150 veces la del radio, haciéndolo útil como \n"
+            + "fuente de neutrones; al margen de ello, no tiene \n"
+            + "aplicaciones industriales significativas.");
+    }//GEN-LAST:event_jTextArea1PropertyChange
 
     /**
      * @param args the command line arguments

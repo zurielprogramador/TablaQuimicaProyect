@@ -7,6 +7,7 @@ package TablaPeriodica;
 
 import java.awt.Graphics;
 import java.awt.Image;
+import javax.swing.Icon;
 import javax.swing.ImageIcon;
 import javax.swing.JPanel;
 
@@ -158,7 +159,7 @@ imagenfondo Imagen=new imagenfondo();
         jButton114 = new javax.swing.JButton();
         jButton115 = new javax.swing.JButton();
         jButton116 = new javax.swing.JButton();
-        jButton117 = new javax.swing.JButton();
+        H = new javax.swing.JButton();
         jButton118 = new javax.swing.JButton();
         jButton119 = new javax.swing.JButton();
         jButton120 = new javax.swing.JButton();
@@ -227,6 +228,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton132 = new javax.swing.JButton();
         jButton133 = new javax.swing.JButton();
         jLabel50 = new javax.swing.JLabel();
+        textbuscar = new javax.swing.JTextField();
+        buscar = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("TABLA PERIODICA");
@@ -284,7 +287,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton3ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton3, new org.netbeans.lib.awtextra.AbsoluteConstraints(1550, 380, 90, 90));
+        getContentPane().add(jButton3, new org.netbeans.lib.awtextra.AbsoluteConstraints(1550, 420, 90, 90));
 
         jButton4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Li5.png"))); // NOI18N
         jButton4.setBorder(null);
@@ -301,7 +304,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton4ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton4, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 300, 90, 90));
+        getContentPane().add(jButton4, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 340, 90, 90));
 
         jButton5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ca5.png"))); // NOI18N
         jButton5.setBorder(null);
@@ -313,7 +316,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton5ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton5, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 460, 90, 90));
+        getContentPane().add(jButton5, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 500, 90, 90));
 
         jButton6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/k5.png"))); // NOI18N
         jButton6.setBorder(null);
@@ -325,7 +328,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton6ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton6, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 460, 90, 90));
+        getContentPane().add(jButton6, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 500, 90, 90));
 
         jButton7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Fr5.png"))); // NOI18N
         jButton7.setBorder(null);
@@ -337,7 +340,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton7ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton7, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 700, 90, 90));
+        getContentPane().add(jButton7, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 740, 90, 90));
 
         jButton8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Rb5.png"))); // NOI18N
         jButton8.setBorder(null);
@@ -349,7 +352,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton8ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton8, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 540, 90, 90));
+        getContentPane().add(jButton8, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 580, 90, 90));
 
         jButton9.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Rh5.png"))); // NOI18N
         jButton9.setBorder(null);
@@ -361,7 +364,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton9ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton9, new org.netbeans.lib.awtextra.AbsoluteConstraints(920, 540, 90, 90));
+        getContentPane().add(jButton9, new org.netbeans.lib.awtextra.AbsoluteConstraints(920, 580, 90, 90));
 
         jButton10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Cs5.png"))); // NOI18N
         jButton10.setBorder(null);
@@ -373,7 +376,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton10ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton10, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 620, 90, 90));
+        getContentPane().add(jButton10, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 660, 90, 90));
 
         jButton11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ba15.png"))); // NOI18N
         jButton11.setBorder(null);
@@ -385,7 +388,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton11ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton11, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 620, 90, 90));
+        getContentPane().add(jButton11, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 660, 90, 90));
 
         jButton12.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ra5.png"))); // NOI18N
         jButton12.setBorder(null);
@@ -397,7 +400,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton12ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton12, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 700, 90, 90));
+        getContentPane().add(jButton12, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 740, 90, 90));
 
         jButton13.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/No5.png"))); // NOI18N
         jButton13.setBorder(null);
@@ -409,7 +412,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton13ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton13, new org.netbeans.lib.awtextra.AbsoluteConstraints(1460, 930, 90, 90));
+        getContentPane().add(jButton13, new org.netbeans.lib.awtextra.AbsoluteConstraints(1460, 940, 90, 90));
 
         jButton14.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ti5.png"))); // NOI18N
         jButton14.setBorder(null);
@@ -421,7 +424,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton14ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton14, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 460, 90, 90));
+        getContentPane().add(jButton14, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 500, 90, 90));
 
         jButton15.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Hf5.png"))); // NOI18N
         jButton15.setBorder(null);
@@ -433,7 +436,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton15ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton15, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 620, 90, 90));
+        getContentPane().add(jButton15, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 660, 90, 90));
 
         jButton16.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/AC15.png"))); // NOI18N
         jButton16.setBorder(null);
@@ -445,7 +448,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton16ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton16, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 930, 90, 90));
+        getContentPane().add(jButton16, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 940, 90, 90));
 
         jButton17.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ce15.png"))); // NOI18N
         jButton17.setBorder(null);
@@ -457,8 +460,9 @@ imagenfondo Imagen=new imagenfondo();
                 jButton17ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton17, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 850, 90, 90));
+        getContentPane().add(jButton17, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 860, 90, 90));
 
+        jButton18.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Th5.png"))); // NOI18N
         jButton18.setBorder(null);
         jButton18.setContentAreaFilled(false);
         jButton18.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Th5.png"))); // NOI18N
@@ -468,7 +472,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton18ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton18, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 930, 90, 90));
+        getContentPane().add(jButton18, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 940, 90, 90));
 
         jButton19.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Pr5.png"))); // NOI18N
         jButton19.setBorder(null);
@@ -480,7 +484,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton19ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton19, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 850, 90, 90));
+        getContentPane().add(jButton19, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 860, 90, 90));
 
         jButton20.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Pa5.png"))); // NOI18N
         jButton20.setBorder(null);
@@ -492,7 +496,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton20ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton20, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 930, 90, 90));
+        getContentPane().add(jButton20, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 940, 90, 90));
 
         jButton22.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/U5.png"))); // NOI18N
         jButton22.setBorder(null);
@@ -504,7 +508,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton22ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton22, new org.netbeans.lib.awtextra.AbsoluteConstraints(560, 930, 90, 90));
+        getContentPane().add(jButton22, new org.netbeans.lib.awtextra.AbsoluteConstraints(560, 940, 90, 90));
 
         jButton23.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Pm5.png"))); // NOI18N
         jButton23.setBorder(null);
@@ -516,7 +520,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton23ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton23, new org.netbeans.lib.awtextra.AbsoluteConstraints(650, 850, 90, 90));
+        getContentPane().add(jButton23, new org.netbeans.lib.awtextra.AbsoluteConstraints(650, 860, 90, 90));
 
         jButton24.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Sm5.png"))); // NOI18N
         jButton24.setBorder(null);
@@ -528,7 +532,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton24ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton24, new org.netbeans.lib.awtextra.AbsoluteConstraints(740, 850, 90, 90));
+        getContentPane().add(jButton24, new org.netbeans.lib.awtextra.AbsoluteConstraints(740, 860, 90, 90));
 
         jButton25.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Eu5.png"))); // NOI18N
         jButton25.setBorder(null);
@@ -540,7 +544,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton25ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton25, new org.netbeans.lib.awtextra.AbsoluteConstraints(830, 850, 90, 90));
+        getContentPane().add(jButton25, new org.netbeans.lib.awtextra.AbsoluteConstraints(830, 860, 90, 90));
 
         jButton26.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Gd5.png"))); // NOI18N
         jButton26.setBorder(null);
@@ -552,7 +556,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton26ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton26, new org.netbeans.lib.awtextra.AbsoluteConstraints(920, 850, 90, 90));
+        getContentPane().add(jButton26, new org.netbeans.lib.awtextra.AbsoluteConstraints(920, 860, 90, 90));
 
         jButton27.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Tb5.png"))); // NOI18N
         jButton27.setBorder(null);
@@ -564,7 +568,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton27ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton27, new org.netbeans.lib.awtextra.AbsoluteConstraints(1010, 850, 90, 90));
+        getContentPane().add(jButton27, new org.netbeans.lib.awtextra.AbsoluteConstraints(1010, 860, 90, 90));
 
         jButton28.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/La5.png"))); // NOI18N
         jButton28.setBorder(null);
@@ -576,7 +580,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton28ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton28, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 850, 90, 90));
+        getContentPane().add(jButton28, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 860, 90, 90));
 
         jButton29.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Nd5.png"))); // NOI18N
         jButton29.setBorder(null);
@@ -588,7 +592,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton29ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton29, new org.netbeans.lib.awtextra.AbsoluteConstraints(560, 850, 90, 90));
+        getContentPane().add(jButton29, new org.netbeans.lib.awtextra.AbsoluteConstraints(560, 860, 90, 90));
 
         jButton30.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Np5.png"))); // NOI18N
         jButton30.setBorder(null);
@@ -600,7 +604,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton30ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton30, new org.netbeans.lib.awtextra.AbsoluteConstraints(650, 930, 90, 90));
+        getContentPane().add(jButton30, new org.netbeans.lib.awtextra.AbsoluteConstraints(650, 940, 90, 90));
 
         jButton31.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Pu5.png"))); // NOI18N
         jButton31.setBorder(null);
@@ -612,7 +616,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton31ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton31, new org.netbeans.lib.awtextra.AbsoluteConstraints(740, 930, 90, 90));
+        getContentPane().add(jButton31, new org.netbeans.lib.awtextra.AbsoluteConstraints(740, 940, 90, 90));
 
         jButton32.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Am5.png"))); // NOI18N
         jButton32.setBorder(null);
@@ -624,7 +628,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton32ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton32, new org.netbeans.lib.awtextra.AbsoluteConstraints(830, 930, 90, 90));
+        getContentPane().add(jButton32, new org.netbeans.lib.awtextra.AbsoluteConstraints(830, 940, 90, 90));
 
         jButton33.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Cm5.png"))); // NOI18N
         jButton33.setBorder(null);
@@ -636,7 +640,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton33ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton33, new org.netbeans.lib.awtextra.AbsoluteConstraints(920, 930, 90, 90));
+        getContentPane().add(jButton33, new org.netbeans.lib.awtextra.AbsoluteConstraints(920, 940, 90, 90));
 
         jButton34.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Cf5.png"))); // NOI18N
         jButton34.setBorder(null);
@@ -648,7 +652,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton34ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton34, new org.netbeans.lib.awtextra.AbsoluteConstraints(1100, 930, 90, 90));
+        getContentPane().add(jButton34, new org.netbeans.lib.awtextra.AbsoluteConstraints(1100, 940, 90, 90));
 
         jButton35.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ho5.png"))); // NOI18N
         jButton35.setBorder(null);
@@ -660,7 +664,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton35ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton35, new org.netbeans.lib.awtextra.AbsoluteConstraints(1190, 850, 90, 90));
+        getContentPane().add(jButton35, new org.netbeans.lib.awtextra.AbsoluteConstraints(1190, 860, 90, 90));
 
         jButton36.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Es5.png"))); // NOI18N
         jButton36.setBorder(null);
@@ -672,7 +676,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton36ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton36, new org.netbeans.lib.awtextra.AbsoluteConstraints(1190, 930, 90, 90));
+        getContentPane().add(jButton36, new org.netbeans.lib.awtextra.AbsoluteConstraints(1190, 940, 90, 90));
 
         jButton37.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Bk5.png"))); // NOI18N
         jButton37.setBorder(null);
@@ -684,7 +688,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton37ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton37, new org.netbeans.lib.awtextra.AbsoluteConstraints(1010, 930, 90, 90));
+        getContentPane().add(jButton37, new org.netbeans.lib.awtextra.AbsoluteConstraints(1010, 940, 90, 90));
 
         jButton38.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Fm5.png"))); // NOI18N
         jButton38.setBorder(null);
@@ -696,7 +700,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton38ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton38, new org.netbeans.lib.awtextra.AbsoluteConstraints(1280, 930, 90, 90));
+        getContentPane().add(jButton38, new org.netbeans.lib.awtextra.AbsoluteConstraints(1280, 940, 90, 90));
 
         jButton39.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Tm5.png"))); // NOI18N
         jButton39.setBorder(null);
@@ -708,7 +712,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton39ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton39, new org.netbeans.lib.awtextra.AbsoluteConstraints(1370, 850, 90, 90));
+        getContentPane().add(jButton39, new org.netbeans.lib.awtextra.AbsoluteConstraints(1370, 860, 90, 90));
 
         jButton40.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Dy5.png"))); // NOI18N
         jButton40.setBorder(null);
@@ -720,7 +724,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton40ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton40, new org.netbeans.lib.awtextra.AbsoluteConstraints(1100, 850, 90, 90));
+        getContentPane().add(jButton40, new org.netbeans.lib.awtextra.AbsoluteConstraints(1100, 860, 90, 90));
 
         jButton41.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Yb5.png"))); // NOI18N
         jButton41.setBorder(null);
@@ -732,7 +736,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton41ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton41, new org.netbeans.lib.awtextra.AbsoluteConstraints(1460, 850, 90, 90));
+        getContentPane().add(jButton41, new org.netbeans.lib.awtextra.AbsoluteConstraints(1460, 860, 90, 90));
 
         jButton42.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Er5.png"))); // NOI18N
         jButton42.setBorder(null);
@@ -744,7 +748,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton42ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton42, new org.netbeans.lib.awtextra.AbsoluteConstraints(1280, 850, 90, 90));
+        getContentPane().add(jButton42, new org.netbeans.lib.awtextra.AbsoluteConstraints(1280, 860, 90, 90));
 
         jButton43.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Md5.png"))); // NOI18N
         jButton43.setBorder(null);
@@ -755,7 +759,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton43ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton43, new org.netbeans.lib.awtextra.AbsoluteConstraints(1370, 930, 90, 90));
+        getContentPane().add(jButton43, new org.netbeans.lib.awtextra.AbsoluteConstraints(1370, 940, 90, 90));
 
         jButton44.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Y5.png"))); // NOI18N
         jButton44.setBorder(null);
@@ -767,7 +771,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton44ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton44, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 540, 90, 90));
+        getContentPane().add(jButton44, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 580, 90, 90));
 
         jButton45.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/estrella.png"))); // NOI18N
         jButton45.setBorder(null);
@@ -777,12 +781,12 @@ imagenfondo Imagen=new imagenfondo();
                 jButton45ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton45, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 620, 90, 90));
+        getContentPane().add(jButton45, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 660, 90, 90));
 
         jButton46.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/estrella.png"))); // NOI18N
         jButton46.setBorder(null);
         jButton46.setContentAreaFilled(false);
-        getContentPane().add(jButton46, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 700, 90, 90));
+        getContentPane().add(jButton46, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 740, 90, 90));
 
         jButton47.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Zr5.png"))); // NOI18N
         jButton47.setBorder(null);
@@ -794,7 +798,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton47ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton47, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 540, 90, 90));
+        getContentPane().add(jButton47, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 580, 90, 90));
 
         jButton48.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Sr5.png"))); // NOI18N
         jButton48.setBorder(null);
@@ -806,7 +810,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton48ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton48, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 540, 90, 90));
+        getContentPane().add(jButton48, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 580, 90, 90));
 
         jButton49.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Mg5.png"))); // NOI18N
         jButton49.setBorder(null);
@@ -818,7 +822,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton49ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton49, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 380, 90, 90));
+        getContentPane().add(jButton49, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 420, 90, 90));
 
         jButton50.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Rf5.png"))); // NOI18N
         jButton50.setBorder(null);
@@ -830,7 +834,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton50ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton50, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 700, 90, 90));
+        getContentPane().add(jButton50, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 740, 90, 90));
 
         jButton51.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/V5.png"))); // NOI18N
         jButton51.setBorder(null);
@@ -842,7 +846,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton51ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton51, new org.netbeans.lib.awtextra.AbsoluteConstraints(560, 460, 90, 90));
+        getContentPane().add(jButton51, new org.netbeans.lib.awtextra.AbsoluteConstraints(560, 500, 90, 90));
 
         jButton52.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Nb5.png"))); // NOI18N
         jButton52.setBorder(null);
@@ -854,7 +858,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton52ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton52, new org.netbeans.lib.awtextra.AbsoluteConstraints(560, 540, 90, 90));
+        getContentPane().add(jButton52, new org.netbeans.lib.awtextra.AbsoluteConstraints(560, 580, 90, 90));
 
         jButton53.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ta5.png"))); // NOI18N
         jButton53.setBorder(null);
@@ -866,7 +870,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton53ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton53, new org.netbeans.lib.awtextra.AbsoluteConstraints(560, 620, 90, 90));
+        getContentPane().add(jButton53, new org.netbeans.lib.awtextra.AbsoluteConstraints(560, 660, 90, 90));
 
         jButton54.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Na5.png"))); // NOI18N
         jButton54.setBorder(null);
@@ -879,7 +883,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton54ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton54, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 380, 90, 90));
+        getContentPane().add(jButton54, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 420, 90, 90));
 
         jButton55.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Cr5.png"))); // NOI18N
         jButton55.setBorder(null);
@@ -891,7 +895,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton55ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton55, new org.netbeans.lib.awtextra.AbsoluteConstraints(650, 460, 90, 90));
+        getContentPane().add(jButton55, new org.netbeans.lib.awtextra.AbsoluteConstraints(650, 500, 90, 90));
 
         jButton56.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Mo5.png"))); // NOI18N
         jButton56.setBorder(null);
@@ -903,7 +907,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton56ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton56, new org.netbeans.lib.awtextra.AbsoluteConstraints(650, 540, 90, 90));
+        getContentPane().add(jButton56, new org.netbeans.lib.awtextra.AbsoluteConstraints(650, 580, 90, 90));
 
         jButton57.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/W5.png"))); // NOI18N
         jButton57.setBorder(null);
@@ -915,7 +919,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton57ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton57, new org.netbeans.lib.awtextra.AbsoluteConstraints(650, 620, 90, 90));
+        getContentPane().add(jButton57, new org.netbeans.lib.awtextra.AbsoluteConstraints(650, 660, 90, 90));
 
         jButton58.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Cd5.png"))); // NOI18N
         jButton58.setBorder(null);
@@ -927,7 +931,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton58ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton58, new org.netbeans.lib.awtextra.AbsoluteConstraints(1190, 540, 90, 90));
+        getContentPane().add(jButton58, new org.netbeans.lib.awtextra.AbsoluteConstraints(1190, 580, 90, 90));
 
         jButton59.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Be5.png"))); // NOI18N
         jButton59.setBorder(null);
@@ -939,7 +943,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton59ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton59, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 300, 90, 90));
+        getContentPane().add(jButton59, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 340, 90, 90));
 
         jButton60.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Re5.png"))); // NOI18N
         jButton60.setBorder(null);
@@ -951,7 +955,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton60ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton60, new org.netbeans.lib.awtextra.AbsoluteConstraints(740, 620, 90, 90));
+        getContentPane().add(jButton60, new org.netbeans.lib.awtextra.AbsoluteConstraints(740, 660, 90, 90));
 
         jButton61.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Tc5.png"))); // NOI18N
         jButton61.setBorder(null);
@@ -963,7 +967,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton61ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton61, new org.netbeans.lib.awtextra.AbsoluteConstraints(740, 540, 90, 90));
+        getContentPane().add(jButton61, new org.netbeans.lib.awtextra.AbsoluteConstraints(740, 580, 90, 90));
 
         jButton62.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Mn5.png"))); // NOI18N
         jButton62.setBorder(null);
@@ -975,7 +979,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton62ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton62, new org.netbeans.lib.awtextra.AbsoluteConstraints(740, 460, 90, 90));
+        getContentPane().add(jButton62, new org.netbeans.lib.awtextra.AbsoluteConstraints(740, 500, 90, 90));
 
         jButton63.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Fe5.png"))); // NOI18N
         jButton63.setBorder(null);
@@ -986,7 +990,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton63ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton63, new org.netbeans.lib.awtextra.AbsoluteConstraints(830, 460, 90, 90));
+        getContentPane().add(jButton63, new org.netbeans.lib.awtextra.AbsoluteConstraints(830, 500, 90, 90));
 
         jButton64.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ru5.png"))); // NOI18N
         jButton64.setBorder(null);
@@ -998,7 +1002,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton64ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton64, new org.netbeans.lib.awtextra.AbsoluteConstraints(830, 540, 90, 90));
+        getContentPane().add(jButton64, new org.netbeans.lib.awtextra.AbsoluteConstraints(830, 580, 90, 90));
 
         jButton65.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Os5.png"))); // NOI18N
         jButton65.setBorder(null);
@@ -1010,7 +1014,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton65ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton65, new org.netbeans.lib.awtextra.AbsoluteConstraints(830, 620, 90, 90));
+        getContentPane().add(jButton65, new org.netbeans.lib.awtextra.AbsoluteConstraints(830, 660, 90, 90));
 
         jButton66.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Sg5.png"))); // NOI18N
         jButton66.setBorder(null);
@@ -1022,7 +1026,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton66ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton66, new org.netbeans.lib.awtextra.AbsoluteConstraints(650, 700, 90, 90));
+        getContentPane().add(jButton66, new org.netbeans.lib.awtextra.AbsoluteConstraints(650, 740, 90, 90));
 
         jButton67.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Co5.png"))); // NOI18N
         jButton67.setBorder(null);
@@ -1034,7 +1038,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton67ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton67, new org.netbeans.lib.awtextra.AbsoluteConstraints(920, 460, 90, 90));
+        getContentPane().add(jButton67, new org.netbeans.lib.awtextra.AbsoluteConstraints(920, 500, 90, 90));
 
         jButton68.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Db5.png"))); // NOI18N
         jButton68.setBorder(null);
@@ -1046,7 +1050,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton68ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton68, new org.netbeans.lib.awtextra.AbsoluteConstraints(560, 700, 90, 90));
+        getContentPane().add(jButton68, new org.netbeans.lib.awtextra.AbsoluteConstraints(560, 740, 90, 90));
 
         jButton69.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ir5.png"))); // NOI18N
         jButton69.setBorder(null);
@@ -1058,7 +1062,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton69ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton69, new org.netbeans.lib.awtextra.AbsoluteConstraints(920, 620, 90, 90));
+        getContentPane().add(jButton69, new org.netbeans.lib.awtextra.AbsoluteConstraints(920, 660, 90, 90));
 
         jButton70.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Mt5.png"))); // NOI18N
         jButton70.setBorder(null);
@@ -1070,7 +1074,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton70ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton70, new org.netbeans.lib.awtextra.AbsoluteConstraints(920, 700, 90, 90));
+        getContentPane().add(jButton70, new org.netbeans.lib.awtextra.AbsoluteConstraints(920, 740, 90, 90));
 
         jButton71.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ni5.png"))); // NOI18N
         jButton71.setBorder(null);
@@ -1082,7 +1086,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton71ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton71, new org.netbeans.lib.awtextra.AbsoluteConstraints(1010, 460, 90, 90));
+        getContentPane().add(jButton71, new org.netbeans.lib.awtextra.AbsoluteConstraints(1010, 500, 90, 90));
 
         jButton72.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Pd5.png"))); // NOI18N
         jButton72.setBorder(null);
@@ -1094,7 +1098,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton72ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton72, new org.netbeans.lib.awtextra.AbsoluteConstraints(1010, 540, 90, 90));
+        getContentPane().add(jButton72, new org.netbeans.lib.awtextra.AbsoluteConstraints(1010, 580, 90, 90));
 
         jButton73.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Pt5.png"))); // NOI18N
         jButton73.setBorder(null);
@@ -1106,7 +1110,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton73ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton73, new org.netbeans.lib.awtextra.AbsoluteConstraints(1010, 620, 90, 90));
+        getContentPane().add(jButton73, new org.netbeans.lib.awtextra.AbsoluteConstraints(1010, 660, 90, 90));
 
         jButton74.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ds5.png"))); // NOI18N
         jButton74.setBorder(null);
@@ -1118,7 +1122,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton74ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton74, new org.netbeans.lib.awtextra.AbsoluteConstraints(1010, 700, 90, 90));
+        getContentPane().add(jButton74, new org.netbeans.lib.awtextra.AbsoluteConstraints(1010, 740, 90, 90));
 
         jButton75.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Hs5.png"))); // NOI18N
         jButton75.setBorder(null);
@@ -1130,7 +1134,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton75ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton75, new org.netbeans.lib.awtextra.AbsoluteConstraints(830, 700, 90, 90));
+        getContentPane().add(jButton75, new org.netbeans.lib.awtextra.AbsoluteConstraints(830, 740, 90, 90));
 
         jButton76.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/AGG5.png"))); // NOI18N
         jButton76.setBorder(null);
@@ -1141,7 +1145,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton76ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton76, new org.netbeans.lib.awtextra.AbsoluteConstraints(1100, 540, 90, 90));
+        getContentPane().add(jButton76, new org.netbeans.lib.awtextra.AbsoluteConstraints(1100, 580, 90, 90));
 
         jButton77.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Bh5.png"))); // NOI18N
         jButton77.setBorder(null);
@@ -1153,7 +1157,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton77ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton77, new org.netbeans.lib.awtextra.AbsoluteConstraints(740, 700, 90, 90));
+        getContentPane().add(jButton77, new org.netbeans.lib.awtextra.AbsoluteConstraints(740, 740, 90, 90));
 
         jButton78.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Rg5.png"))); // NOI18N
         jButton78.setBorder(null);
@@ -1165,7 +1169,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton78ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton78, new org.netbeans.lib.awtextra.AbsoluteConstraints(1100, 700, 90, 90));
+        getContentPane().add(jButton78, new org.netbeans.lib.awtextra.AbsoluteConstraints(1100, 740, 90, 90));
 
         jButton79.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Zn5.png"))); // NOI18N
         jButton79.setBorder(null);
@@ -1177,7 +1181,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton79ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton79, new org.netbeans.lib.awtextra.AbsoluteConstraints(1190, 460, 90, 90));
+        getContentPane().add(jButton79, new org.netbeans.lib.awtextra.AbsoluteConstraints(1190, 500, 90, 90));
 
         jButton80.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Cu5.png"))); // NOI18N
         jButton80.setBorder(null);
@@ -1189,7 +1193,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton80ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton80, new org.netbeans.lib.awtextra.AbsoluteConstraints(1100, 460, 90, 90));
+        getContentPane().add(jButton80, new org.netbeans.lib.awtextra.AbsoluteConstraints(1100, 500, 90, 90));
 
         jButton81.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Hg5.png"))); // NOI18N
         jButton81.setBorder(null);
@@ -1201,7 +1205,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton81ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton81, new org.netbeans.lib.awtextra.AbsoluteConstraints(1190, 620, 90, 90));
+        getContentPane().add(jButton81, new org.netbeans.lib.awtextra.AbsoluteConstraints(1190, 660, 90, 90));
 
         jButton82.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Cn5.png"))); // NOI18N
         jButton82.setBorder(null);
@@ -1213,7 +1217,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton82ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton82, new org.netbeans.lib.awtextra.AbsoluteConstraints(1190, 700, 90, 90));
+        getContentPane().add(jButton82, new org.netbeans.lib.awtextra.AbsoluteConstraints(1190, 740, 90, 90));
 
         jButton83.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Au5.png"))); // NOI18N
         jButton83.setBorder(null);
@@ -1225,7 +1229,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton83ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton83, new org.netbeans.lib.awtextra.AbsoluteConstraints(1100, 620, 90, 90));
+        getContentPane().add(jButton83, new org.netbeans.lib.awtextra.AbsoluteConstraints(1100, 660, 90, 90));
 
         jButton84.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Sc5.png"))); // NOI18N
         jButton84.setBorder(null);
@@ -1237,7 +1241,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton84ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton84, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 460, 90, 90));
+        getContentPane().add(jButton84, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 500, 90, 90));
 
         jButton85.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Sb6.png"))); // NOI18N
         jButton85.setBorder(null);
@@ -1249,7 +1253,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton85ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton85, new org.netbeans.lib.awtextra.AbsoluteConstraints(1460, 540, 90, 90));
+        getContentPane().add(jButton85, new org.netbeans.lib.awtextra.AbsoluteConstraints(1460, 580, 90, 90));
 
         jButton86.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ga5.png"))); // NOI18N
         jButton86.setBorder(null);
@@ -1261,7 +1265,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton86ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton86, new org.netbeans.lib.awtextra.AbsoluteConstraints(1280, 460, 90, 90));
+        getContentPane().add(jButton86, new org.netbeans.lib.awtextra.AbsoluteConstraints(1280, 500, 90, 90));
 
         jButton87.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Nh5.png"))); // NOI18N
         jButton87.setBorder(null);
@@ -1273,7 +1277,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton87ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton87, new org.netbeans.lib.awtextra.AbsoluteConstraints(1280, 700, 90, 90));
+        getContentPane().add(jButton87, new org.netbeans.lib.awtextra.AbsoluteConstraints(1280, 740, 90, 90));
 
         jButton88.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/AL66.png"))); // NOI18N
         jButton88.setBorder(null);
@@ -1284,7 +1288,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton88ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton88, new org.netbeans.lib.awtextra.AbsoluteConstraints(1280, 380, 90, 90));
+        getContentPane().add(jButton88, new org.netbeans.lib.awtextra.AbsoluteConstraints(1280, 420, 90, 90));
 
         jButton89.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/B8.png"))); // NOI18N
         jButton89.setBorder(null);
@@ -1296,7 +1300,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton89ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton89, new org.netbeans.lib.awtextra.AbsoluteConstraints(1280, 300, 90, 90));
+        getContentPane().add(jButton89, new org.netbeans.lib.awtextra.AbsoluteConstraints(1280, 340, 90, 90));
 
         jButton90.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Sn5.png"))); // NOI18N
         jButton90.setBorder(null);
@@ -1308,7 +1312,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton90ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton90, new org.netbeans.lib.awtextra.AbsoluteConstraints(1370, 540, 90, 90));
+        getContentPane().add(jButton90, new org.netbeans.lib.awtextra.AbsoluteConstraints(1370, 580, 90, 90));
 
         jButton91.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Fl5.png"))); // NOI18N
         jButton91.setBorder(null);
@@ -1320,7 +1324,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton91ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton91, new org.netbeans.lib.awtextra.AbsoluteConstraints(1370, 700, 90, 90));
+        getContentPane().add(jButton91, new org.netbeans.lib.awtextra.AbsoluteConstraints(1370, 740, 90, 90));
 
         jButton92.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/As6.png"))); // NOI18N
         jButton92.setBorder(null);
@@ -1332,7 +1336,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton92ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton92, new org.netbeans.lib.awtextra.AbsoluteConstraints(1460, 460, 90, 90));
+        getContentPane().add(jButton92, new org.netbeans.lib.awtextra.AbsoluteConstraints(1460, 500, 90, 90));
 
         jButton93.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ge6.png"))); // NOI18N
         jButton93.setBorder(null);
@@ -1344,7 +1348,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton93ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton93, new org.netbeans.lib.awtextra.AbsoluteConstraints(1370, 460, 90, 90));
+        getContentPane().add(jButton93, new org.netbeans.lib.awtextra.AbsoluteConstraints(1370, 500, 90, 90));
 
         jButton94.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Bi5.png"))); // NOI18N
         jButton94.setBorder(null);
@@ -1356,7 +1360,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton94ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton94, new org.netbeans.lib.awtextra.AbsoluteConstraints(1460, 620, 90, 90));
+        getContentPane().add(jButton94, new org.netbeans.lib.awtextra.AbsoluteConstraints(1460, 660, 90, 90));
 
         jButton95.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Mc5.png"))); // NOI18N
         jButton95.setBorder(null);
@@ -1368,7 +1372,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton95ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton95, new org.netbeans.lib.awtextra.AbsoluteConstraints(1460, 700, 90, 90));
+        getContentPane().add(jButton95, new org.netbeans.lib.awtextra.AbsoluteConstraints(1460, 740, 90, 90));
 
         jButton96.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Pb5.png"))); // NOI18N
         jButton96.setBorder(null);
@@ -1380,7 +1384,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton96ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton96, new org.netbeans.lib.awtextra.AbsoluteConstraints(1370, 620, 90, 90));
+        getContentPane().add(jButton96, new org.netbeans.lib.awtextra.AbsoluteConstraints(1370, 660, 90, 90));
 
         jButton97.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Xe5.png"))); // NOI18N
         jButton97.setBorder(null);
@@ -1392,7 +1396,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton97ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton97, new org.netbeans.lib.awtextra.AbsoluteConstraints(1730, 540, 90, 90));
+        getContentPane().add(jButton97, new org.netbeans.lib.awtextra.AbsoluteConstraints(1730, 580, 90, 90));
 
         jButton98.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Se5.png"))); // NOI18N
         jButton98.setBorder(null);
@@ -1404,7 +1408,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton98ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton98, new org.netbeans.lib.awtextra.AbsoluteConstraints(1550, 460, 90, 90));
+        getContentPane().add(jButton98, new org.netbeans.lib.awtextra.AbsoluteConstraints(1550, 500, 90, 90));
 
         jButton99.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Te6.png"))); // NOI18N
         jButton99.setBorder(null);
@@ -1416,7 +1420,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton99ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton99, new org.netbeans.lib.awtextra.AbsoluteConstraints(1550, 540, 90, 90));
+        getContentPane().add(jButton99, new org.netbeans.lib.awtextra.AbsoluteConstraints(1550, 580, 90, 90));
 
         jButton100.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Po6.png"))); // NOI18N
         jButton100.setBorder(null);
@@ -1428,7 +1432,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton100ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton100, new org.netbeans.lib.awtextra.AbsoluteConstraints(1550, 620, 90, 90));
+        getContentPane().add(jButton100, new org.netbeans.lib.awtextra.AbsoluteConstraints(1550, 660, 90, 90));
 
         jButton101.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Lv5.png"))); // NOI18N
         jButton101.setBorder(null);
@@ -1440,7 +1444,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton101ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton101, new org.netbeans.lib.awtextra.AbsoluteConstraints(1550, 700, 90, 90));
+        getContentPane().add(jButton101, new org.netbeans.lib.awtextra.AbsoluteConstraints(1550, 740, 90, 90));
 
         jButton102.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/I5.png"))); // NOI18N
         jButton102.setBorder(null);
@@ -1451,7 +1455,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton102ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton102, new org.netbeans.lib.awtextra.AbsoluteConstraints(1640, 540, 90, 90));
+        getContentPane().add(jButton102, new org.netbeans.lib.awtextra.AbsoluteConstraints(1640, 580, 90, 90));
 
         jButton103.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ts5.png"))); // NOI18N
         jButton103.setBorder(null);
@@ -1463,7 +1467,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton103ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton103, new org.netbeans.lib.awtextra.AbsoluteConstraints(1640, 700, 90, 90));
+        getContentPane().add(jButton103, new org.netbeans.lib.awtextra.AbsoluteConstraints(1640, 740, 90, 90));
 
         jButton104.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Kr5.png"))); // NOI18N
         jButton104.setBorder(null);
@@ -1475,7 +1479,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton104ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton104, new org.netbeans.lib.awtextra.AbsoluteConstraints(1730, 460, 90, 90));
+        getContentPane().add(jButton104, new org.netbeans.lib.awtextra.AbsoluteConstraints(1730, 500, 90, 90));
 
         jButton105.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/BR5.png"))); // NOI18N
         jButton105.setBorder(null);
@@ -1487,7 +1491,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton105ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton105, new org.netbeans.lib.awtextra.AbsoluteConstraints(1640, 460, 90, 90));
+        getContentPane().add(jButton105, new org.netbeans.lib.awtextra.AbsoluteConstraints(1640, 500, 90, 90));
 
         jButton106.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Rn5.png"))); // NOI18N
         jButton106.setBorder(null);
@@ -1499,7 +1503,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton106ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton106, new org.netbeans.lib.awtextra.AbsoluteConstraints(1730, 620, 90, 90));
+        getContentPane().add(jButton106, new org.netbeans.lib.awtextra.AbsoluteConstraints(1730, 660, 90, 90));
 
         jButton107.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Og5.png"))); // NOI18N
         jButton107.setBorder(null);
@@ -1511,7 +1515,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton107ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton107, new org.netbeans.lib.awtextra.AbsoluteConstraints(1730, 700, 90, 90));
+        getContentPane().add(jButton107, new org.netbeans.lib.awtextra.AbsoluteConstraints(1730, 740, 90, 90));
 
         jButton108.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/At5.png"))); // NOI18N
         jButton108.setBorder(null);
@@ -1523,7 +1527,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton108ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton108, new org.netbeans.lib.awtextra.AbsoluteConstraints(1640, 620, 90, 90));
+        getContentPane().add(jButton108, new org.netbeans.lib.awtextra.AbsoluteConstraints(1640, 660, 90, 90));
 
         jButton109.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/p5.png"))); // NOI18N
         jButton109.setBorder(null);
@@ -1535,7 +1539,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton109ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton109, new org.netbeans.lib.awtextra.AbsoluteConstraints(1460, 380, 90, 90));
+        getContentPane().add(jButton109, new org.netbeans.lib.awtextra.AbsoluteConstraints(1460, 420, 90, 90));
 
         jButton110.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/In5.png"))); // NOI18N
         jButton110.setBorder(null);
@@ -1547,7 +1551,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton110ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton110, new org.netbeans.lib.awtextra.AbsoluteConstraints(1280, 540, 90, 90));
+        getContentPane().add(jButton110, new org.netbeans.lib.awtextra.AbsoluteConstraints(1280, 580, 90, 90));
 
         jButton111.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Tl5.png"))); // NOI18N
         jButton111.setBorder(null);
@@ -1559,7 +1563,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton111ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton111, new org.netbeans.lib.awtextra.AbsoluteConstraints(1280, 620, 90, 90));
+        getContentPane().add(jButton111, new org.netbeans.lib.awtextra.AbsoluteConstraints(1280, 660, 90, 90));
 
         jButton112.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Si7.png"))); // NOI18N
         jButton112.setBorder(null);
@@ -1571,7 +1575,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton112ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton112, new org.netbeans.lib.awtextra.AbsoluteConstraints(1370, 380, 90, 90));
+        getContentPane().add(jButton112, new org.netbeans.lib.awtextra.AbsoluteConstraints(1370, 420, 90, 90));
 
         jButton113.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/N5.png"))); // NOI18N
         jButton113.setBorder(null);
@@ -1583,7 +1587,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton113ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton113, new org.netbeans.lib.awtextra.AbsoluteConstraints(1460, 300, 90, 90));
+        getContentPane().add(jButton113, new org.netbeans.lib.awtextra.AbsoluteConstraints(1460, 340, 90, 90));
 
         jButton114.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/C5.png"))); // NOI18N
         jButton114.setBorder(null);
@@ -1595,7 +1599,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton114ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton114, new org.netbeans.lib.awtextra.AbsoluteConstraints(1370, 300, 90, 90));
+        getContentPane().add(jButton114, new org.netbeans.lib.awtextra.AbsoluteConstraints(1370, 340, 90, 90));
 
         jButton115.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ar5.png"))); // NOI18N
         jButton115.setBorder(null);
@@ -1607,7 +1611,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton115ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton115, new org.netbeans.lib.awtextra.AbsoluteConstraints(1730, 380, 90, 90));
+        getContentPane().add(jButton115, new org.netbeans.lib.awtextra.AbsoluteConstraints(1730, 420, 90, 90));
 
         jButton116.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/O5.png"))); // NOI18N
         jButton116.setBorder(null);
@@ -1624,27 +1628,27 @@ imagenfondo Imagen=new imagenfondo();
                 jButton116ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton116, new org.netbeans.lib.awtextra.AbsoluteConstraints(1550, 300, 90, 90));
+        getContentPane().add(jButton116, new org.netbeans.lib.awtextra.AbsoluteConstraints(1550, 340, 90, 90));
 
-        jButton117.setForeground(new java.awt.Color(51, 51, 51));
-        jButton117.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/H5.png"))); // NOI18N
-        jButton117.setToolTipText("");
-        jButton117.setBorder(null);
-        jButton117.setContentAreaFilled(false);
-        jButton117.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/H5.png"))); // NOI18N
-        jButton117.setRequestFocusEnabled(false);
-        jButton117.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/H125.png"))); // NOI18N
-        jButton117.addMouseListener(new java.awt.event.MouseAdapter() {
+        H.setForeground(new java.awt.Color(51, 51, 51));
+        H.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/H5.png"))); // NOI18N
+        H.setToolTipText("");
+        H.setBorder(null);
+        H.setContentAreaFilled(false);
+        H.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/H5.png"))); // NOI18N
+        H.setRequestFocusEnabled(false);
+        H.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/H125.png"))); // NOI18N
+        H.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
-                jButton117MouseClicked(evt);
+                HMouseClicked(evt);
             }
         });
-        jButton117.addActionListener(new java.awt.event.ActionListener() {
+        H.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jButton117ActionPerformed(evt);
+                HActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton117, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 220, 90, 90));
+        getContentPane().add(H, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 260, 90, 90));
 
         jButton118.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Cl5.png"))); // NOI18N
         jButton118.setBorder(null);
@@ -1656,7 +1660,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton118ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton118, new org.netbeans.lib.awtextra.AbsoluteConstraints(1640, 380, 90, 90));
+        getContentPane().add(jButton118, new org.netbeans.lib.awtextra.AbsoluteConstraints(1640, 420, 90, 90));
 
         jButton119.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/He5.png"))); // NOI18N
         jButton119.setBorder(null);
@@ -1668,7 +1672,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton119ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton119, new org.netbeans.lib.awtextra.AbsoluteConstraints(1730, 220, 90, 90));
+        getContentPane().add(jButton119, new org.netbeans.lib.awtextra.AbsoluteConstraints(1730, 260, 90, 90));
 
         jButton120.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/F5.png"))); // NOI18N
         jButton120.setBorder(null);
@@ -1680,7 +1684,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton120ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton120, new org.netbeans.lib.awtextra.AbsoluteConstraints(1640, 300, 90, 90));
+        getContentPane().add(jButton120, new org.netbeans.lib.awtextra.AbsoluteConstraints(1640, 340, 90, 90));
 
         jButton121.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ne5.png"))); // NOI18N
         jButton121.setBorder(null);
@@ -1692,7 +1696,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton121ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton121, new org.netbeans.lib.awtextra.AbsoluteConstraints(1730, 300, 90, 90));
+        getContentPane().add(jButton121, new org.netbeans.lib.awtextra.AbsoluteConstraints(1730, 340, 90, 90));
 
         jButton21.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Lu5.png"))); // NOI18N
         jButton21.setBorder(null);
@@ -1704,7 +1708,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton21ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton21, new org.netbeans.lib.awtextra.AbsoluteConstraints(1550, 850, 90, 90));
+        getContentPane().add(jButton21, new org.netbeans.lib.awtextra.AbsoluteConstraints(1550, 860, 90, 90));
 
         jButton122.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Lr5.png"))); // NOI18N
         jButton122.setBorder(null);
@@ -1716,206 +1720,206 @@ imagenfondo Imagen=new imagenfondo();
                 jButton122ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton122, new org.netbeans.lib.awtextra.AbsoluteConstraints(1550, 930, 90, 90));
+        getContentPane().add(jButton122, new org.netbeans.lib.awtextra.AbsoluteConstraints(1550, 940, 90, 90));
 
         jLabel1.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(51, 51, 51));
         jLabel1.setText("Grupo 1");
-        getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(230, 180, -1, 20));
+        getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(230, 220, -1, 20));
 
         jLabel2.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(51, 51, 51));
         jLabel2.setText("Periodo 7");
-        getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 740, -1, 20));
+        getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 780, -1, 20));
 
         jLabel9.setFont(new java.awt.Font("Trebuchet MS", 1, 12)); // NOI18N
         jLabel9.setText("2");
-        getContentPane().add(jLabel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 260, 20, -1));
+        getContentPane().add(jLabel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 300, 20, -1));
 
         jLabel10.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel10.setForeground(new java.awt.Color(51, 51, 51));
         jLabel10.setText("3");
-        getContentPane().add(jLabel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 420, 10, -1));
+        getContentPane().add(jLabel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 460, 10, -1));
 
         jLabel11.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel11.setForeground(new java.awt.Color(51, 51, 51));
         jLabel11.setText("4");
-        getContentPane().add(jLabel11, new org.netbeans.lib.awtextra.AbsoluteConstraints(510, 420, 10, -1));
+        getContentPane().add(jLabel11, new org.netbeans.lib.awtextra.AbsoluteConstraints(510, 460, 10, -1));
 
         jLabel12.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel12.setForeground(new java.awt.Color(51, 51, 51));
         jLabel12.setText("5");
-        getContentPane().add(jLabel12, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 420, -1, -1));
+        getContentPane().add(jLabel12, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 460, -1, -1));
 
         jLabel13.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel13.setForeground(new java.awt.Color(51, 51, 51));
         jLabel13.setText("6");
-        getContentPane().add(jLabel13, new org.netbeans.lib.awtextra.AbsoluteConstraints(690, 420, 10, -1));
+        getContentPane().add(jLabel13, new org.netbeans.lib.awtextra.AbsoluteConstraints(690, 460, 10, -1));
 
         jLabel14.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel14.setForeground(new java.awt.Color(51, 51, 51));
         jLabel14.setText("7");
-        getContentPane().add(jLabel14, new org.netbeans.lib.awtextra.AbsoluteConstraints(770, 420, 10, -1));
+        getContentPane().add(jLabel14, new org.netbeans.lib.awtextra.AbsoluteConstraints(770, 460, 10, -1));
 
         jLabel15.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel15.setForeground(new java.awt.Color(51, 51, 51));
         jLabel15.setText("8");
-        getContentPane().add(jLabel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(870, 420, -1, -1));
+        getContentPane().add(jLabel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(870, 460, -1, -1));
 
         jLabel16.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel16.setForeground(new java.awt.Color(51, 51, 51));
         jLabel16.setText("9");
-        getContentPane().add(jLabel16, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 420, -1, -1));
+        getContentPane().add(jLabel16, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 460, -1, -1));
 
         jLabel17.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel17.setForeground(new java.awt.Color(51, 51, 51));
         jLabel17.setText("10");
-        getContentPane().add(jLabel17, new org.netbeans.lib.awtextra.AbsoluteConstraints(1050, 420, -1, -1));
+        getContentPane().add(jLabel17, new org.netbeans.lib.awtextra.AbsoluteConstraints(1050, 460, -1, -1));
 
         jLabel18.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel18.setForeground(new java.awt.Color(51, 51, 51));
         jLabel18.setText("11");
-        getContentPane().add(jLabel18, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 420, -1, -1));
+        getContentPane().add(jLabel18, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 460, -1, -1));
 
         jLabel19.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel19.setForeground(new java.awt.Color(51, 51, 51));
         jLabel19.setText("12");
-        getContentPane().add(jLabel19, new org.netbeans.lib.awtextra.AbsoluteConstraints(1230, 420, -1, -1));
+        getContentPane().add(jLabel19, new org.netbeans.lib.awtextra.AbsoluteConstraints(1230, 460, -1, -1));
 
         jLabel20.setBackground(new java.awt.Color(255, 255, 255));
         jLabel20.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel20.setForeground(new java.awt.Color(51, 51, 51));
         jLabel20.setText("13");
-        getContentPane().add(jLabel20, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 260, -1, -1));
+        getContentPane().add(jLabel20, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 300, -1, -1));
 
         jLabel21.setBackground(new java.awt.Color(255, 255, 255));
         jLabel21.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel21.setForeground(new java.awt.Color(51, 51, 51));
         jLabel21.setText("14");
-        getContentPane().add(jLabel21, new org.netbeans.lib.awtextra.AbsoluteConstraints(1410, 260, -1, -1));
+        getContentPane().add(jLabel21, new org.netbeans.lib.awtextra.AbsoluteConstraints(1410, 300, -1, -1));
 
         jLabel22.setBackground(new java.awt.Color(255, 255, 255));
         jLabel22.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel22.setForeground(new java.awt.Color(51, 51, 51));
         jLabel22.setText("15");
-        getContentPane().add(jLabel22, new org.netbeans.lib.awtextra.AbsoluteConstraints(1490, 260, -1, -1));
+        getContentPane().add(jLabel22, new org.netbeans.lib.awtextra.AbsoluteConstraints(1490, 300, -1, -1));
 
         jLabel23.setBackground(new java.awt.Color(255, 255, 255));
         jLabel23.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel23.setForeground(new java.awt.Color(51, 51, 51));
         jLabel23.setText("16");
-        getContentPane().add(jLabel23, new org.netbeans.lib.awtextra.AbsoluteConstraints(1580, 260, -1, -1));
+        getContentPane().add(jLabel23, new org.netbeans.lib.awtextra.AbsoluteConstraints(1580, 300, -1, -1));
 
         jLabel24.setBackground(new java.awt.Color(255, 255, 255));
         jLabel24.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel24.setForeground(new java.awt.Color(51, 51, 51));
         jLabel24.setText("17");
-        getContentPane().add(jLabel24, new org.netbeans.lib.awtextra.AbsoluteConstraints(1670, 260, -1, -1));
+        getContentPane().add(jLabel24, new org.netbeans.lib.awtextra.AbsoluteConstraints(1670, 300, -1, -1));
 
         jLabel25.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel25.setForeground(new java.awt.Color(51, 51, 51));
         jLabel25.setText("18");
-        getContentPane().add(jLabel25, new org.netbeans.lib.awtextra.AbsoluteConstraints(1770, 180, -1, -1));
+        getContentPane().add(jLabel25, new org.netbeans.lib.awtextra.AbsoluteConstraints(1770, 220, -1, -1));
 
         jLabel26.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel26.setForeground(new java.awt.Color(51, 51, 51));
         jLabel26.setText("IA");
-        getContentPane().add(jLabel26, new org.netbeans.lib.awtextra.AbsoluteConstraints(240, 210, -1, -1));
+        getContentPane().add(jLabel26, new org.netbeans.lib.awtextra.AbsoluteConstraints(240, 250, -1, -1));
 
         jLabel27.setFont(new java.awt.Font("Trebuchet MS", 1, 12)); // NOI18N
         jLabel27.setText("IIA");
-        getContentPane().add(jLabel27, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 290, -1, -1));
+        getContentPane().add(jLabel27, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 330, -1, -1));
 
         jLabel28.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel28.setForeground(new java.awt.Color(51, 51, 51));
         jLabel28.setText("IIB");
-        getContentPane().add(jLabel28, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 450, -1, -1));
+        getContentPane().add(jLabel28, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 490, -1, -1));
 
         jLabel29.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel29.setForeground(new java.awt.Color(51, 51, 51));
         jLabel29.setText("IVB");
-        getContentPane().add(jLabel29, new org.netbeans.lib.awtextra.AbsoluteConstraints(510, 450, -1, -1));
+        getContentPane().add(jLabel29, new org.netbeans.lib.awtextra.AbsoluteConstraints(510, 490, -1, -1));
 
         jLabel30.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel30.setForeground(new java.awt.Color(51, 51, 51));
         jLabel30.setText("VB");
-        getContentPane().add(jLabel30, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 450, -1, -1));
+        getContentPane().add(jLabel30, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 490, -1, -1));
 
         jLabel31.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel31.setForeground(new java.awt.Color(51, 51, 51));
         jLabel31.setText("VIB");
-        getContentPane().add(jLabel31, new org.netbeans.lib.awtextra.AbsoluteConstraints(690, 450, -1, -1));
+        getContentPane().add(jLabel31, new org.netbeans.lib.awtextra.AbsoluteConstraints(690, 490, -1, -1));
 
         jLabel32.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel32.setForeground(new java.awt.Color(51, 51, 51));
         jLabel32.setText("VIIB");
-        getContentPane().add(jLabel32, new org.netbeans.lib.awtextra.AbsoluteConstraints(770, 450, -1, -1));
+        getContentPane().add(jLabel32, new org.netbeans.lib.awtextra.AbsoluteConstraints(770, 490, -1, -1));
 
         jLabel33.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel33.setForeground(new java.awt.Color(51, 51, 51));
         jLabel33.setText("VIIIB");
-        getContentPane().add(jLabel33, new org.netbeans.lib.awtextra.AbsoluteConstraints(860, 450, -1, -1));
+        getContentPane().add(jLabel33, new org.netbeans.lib.awtextra.AbsoluteConstraints(860, 490, -1, -1));
 
         jLabel34.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel34.setForeground(new java.awt.Color(51, 51, 51));
         jLabel34.setText("VIIIB");
-        getContentPane().add(jLabel34, new org.netbeans.lib.awtextra.AbsoluteConstraints(950, 450, -1, -1));
+        getContentPane().add(jLabel34, new org.netbeans.lib.awtextra.AbsoluteConstraints(950, 490, -1, -1));
 
         jLabel35.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel35.setForeground(new java.awt.Color(51, 51, 51));
         jLabel35.setText("VIIIB");
-        getContentPane().add(jLabel35, new org.netbeans.lib.awtextra.AbsoluteConstraints(1040, 450, -1, -1));
+        getContentPane().add(jLabel35, new org.netbeans.lib.awtextra.AbsoluteConstraints(1040, 490, -1, -1));
 
         jLabel36.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel36.setForeground(new java.awt.Color(51, 51, 51));
         jLabel36.setText("IB");
-        getContentPane().add(jLabel36, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 450, -1, -1));
+        getContentPane().add(jLabel36, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 490, -1, -1));
 
         jLabel37.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel37.setForeground(new java.awt.Color(51, 51, 51));
         jLabel37.setText("IIB");
-        getContentPane().add(jLabel37, new org.netbeans.lib.awtextra.AbsoluteConstraints(1230, 450, -1, -1));
+        getContentPane().add(jLabel37, new org.netbeans.lib.awtextra.AbsoluteConstraints(1230, 490, -1, -1));
 
         jLabel38.setBackground(new java.awt.Color(255, 255, 255));
         jLabel38.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel38.setForeground(new java.awt.Color(51, 51, 51));
         jLabel38.setText("IIIA");
-        getContentPane().add(jLabel38, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 290, -1, -1));
+        getContentPane().add(jLabel38, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 330, -1, -1));
 
         jLabel39.setBackground(new java.awt.Color(255, 255, 255));
         jLabel39.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel39.setForeground(new java.awt.Color(51, 51, 51));
         jLabel39.setText("IVA");
-        getContentPane().add(jLabel39, new org.netbeans.lib.awtextra.AbsoluteConstraints(1410, 290, -1, -1));
+        getContentPane().add(jLabel39, new org.netbeans.lib.awtextra.AbsoluteConstraints(1410, 330, -1, -1));
 
         jLabel40.setBackground(new java.awt.Color(255, 255, 255));
         jLabel40.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel40.setForeground(new java.awt.Color(51, 51, 51));
         jLabel40.setText("VA");
-        getContentPane().add(jLabel40, new org.netbeans.lib.awtextra.AbsoluteConstraints(1490, 290, -1, -1));
+        getContentPane().add(jLabel40, new org.netbeans.lib.awtextra.AbsoluteConstraints(1490, 330, -1, -1));
 
         jLabel41.setBackground(new java.awt.Color(255, 255, 255));
         jLabel41.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel41.setForeground(new java.awt.Color(51, 51, 51));
         jLabel41.setText("VIA");
-        getContentPane().add(jLabel41, new org.netbeans.lib.awtextra.AbsoluteConstraints(1580, 290, -1, -1));
+        getContentPane().add(jLabel41, new org.netbeans.lib.awtextra.AbsoluteConstraints(1580, 330, -1, -1));
 
         jLabel42.setBackground(new java.awt.Color(255, 255, 255));
         jLabel42.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel42.setForeground(new java.awt.Color(51, 51, 51));
         jLabel42.setText("VIIA");
-        getContentPane().add(jLabel42, new org.netbeans.lib.awtextra.AbsoluteConstraints(1670, 290, -1, -1));
+        getContentPane().add(jLabel42, new org.netbeans.lib.awtextra.AbsoluteConstraints(1670, 330, -1, -1));
 
         jLabel43.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel43.setForeground(new java.awt.Color(51, 51, 51));
         jLabel43.setText("VIIIA");
-        getContentPane().add(jLabel43, new org.netbeans.lib.awtextra.AbsoluteConstraints(1760, 210, -1, -1));
+        getContentPane().add(jLabel43, new org.netbeans.lib.awtextra.AbsoluteConstraints(1760, 250, -1, -1));
 
         jLabel44.setBackground(new java.awt.Color(255, 255, 255));
         jLabel44.setFont(new java.awt.Font("Modern No. 20", 1, 48)); // NOI18N
         jLabel44.setForeground(new java.awt.Color(51, 51, 51));
         jLabel44.setText("TABLA PERIÓDICA DE LOS ELEMENTOS");
-        getContentPane().add(jLabel44, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 0, 1040, 90));
+        getContentPane().add(jLabel44, new org.netbeans.lib.awtextra.AbsoluteConstraints(340, 10, 1040, 90));
 
         jButton123.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/VERDEFEO.png"))); // NOI18N
         jButton123.setContentAreaFilled(false);
@@ -1926,7 +1930,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton123ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton123, new org.netbeans.lib.awtextra.AbsoluteConstraints(590, 110, 80, 80));
+        getContentPane().add(jButton123, new org.netbeans.lib.awtextra.AbsoluteConstraints(590, 150, 80, 80));
 
         jButton124.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Al4.png"))); // NOI18N
         jButton124.setContentAreaFilled(false);
@@ -1936,7 +1940,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton124ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton124, new org.netbeans.lib.awtextra.AbsoluteConstraints(1030, 270, 80, 80));
+        getContentPane().add(jButton124, new org.netbeans.lib.awtextra.AbsoluteConstraints(1030, 310, 80, 80));
 
         jButton125.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/NARANJA.png"))); // NOI18N
         jButton125.setContentAreaFilled(false);
@@ -1947,7 +1951,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton125ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton125, new org.netbeans.lib.awtextra.AbsoluteConstraints(590, 190, 80, 80));
+        getContentPane().add(jButton125, new org.netbeans.lib.awtextra.AbsoluteConstraints(590, 230, 80, 80));
 
         jButton129.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/AZULCLARO.png"))); // NOI18N
         jButton129.setContentAreaFilled(false);
@@ -1963,80 +1967,80 @@ imagenfondo Imagen=new imagenfondo();
                 jButton129ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton129, new org.netbeans.lib.awtextra.AbsoluteConstraints(590, 270, 80, 80));
+        getContentPane().add(jButton129, new org.netbeans.lib.awtextra.AbsoluteConstraints(590, 310, 80, 80));
 
         jLabel45.setBackground(new java.awt.Color(255, 255, 255));
         jLabel45.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel45.setForeground(new java.awt.Color(51, 51, 51));
         jLabel45.setText("LANTÁNIDOS");
-        getContentPane().add(jLabel45, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 300, -1, -1));
+        getContentPane().add(jLabel45, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 340, -1, -1));
 
         jLabel46.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel46.setForeground(new java.awt.Color(51, 51, 51));
         jLabel46.setText("NO METALES");
-        getContentPane().add(jLabel46, new org.netbeans.lib.awtextra.AbsoluteConstraints(900, 300, -1, -1));
+        getContentPane().add(jLabel46, new org.netbeans.lib.awtextra.AbsoluteConstraints(900, 340, -1, -1));
 
         jLabel47.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel47.setForeground(new java.awt.Color(51, 51, 51));
         jLabel47.setText("METALES DE TRANSICIÓN");
-        getContentPane().add(jLabel47, new org.netbeans.lib.awtextra.AbsoluteConstraints(1110, 140, -1, -1));
+        getContentPane().add(jLabel47, new org.netbeans.lib.awtextra.AbsoluteConstraints(1110, 180, -1, -1));
 
         jLabel48.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel48.setForeground(new java.awt.Color(51, 51, 51));
         jLabel48.setText("METALOIDES");
-        getContentPane().add(jLabel48, new org.netbeans.lib.awtextra.AbsoluteConstraints(900, 140, -1, -1));
+        getContentPane().add(jLabel48, new org.netbeans.lib.awtextra.AbsoluteConstraints(900, 180, -1, -1));
 
         jLabel49.setBackground(new java.awt.Color(255, 255, 255));
         jLabel49.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel49.setForeground(new java.awt.Color(51, 51, 51));
         jLabel49.setText("ACTÍNIDOS");
-        getContentPane().add(jLabel49, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 140, -1, -1));
+        getContentPane().add(jLabel49, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 180, -1, -1));
 
         jLabel51.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel51.setForeground(new java.awt.Color(51, 51, 51));
         jLabel51.setText("METALES ALCALINOS");
-        getContentPane().add(jLabel51, new org.netbeans.lib.awtextra.AbsoluteConstraints(1110, 220, -1, -1));
+        getContentPane().add(jLabel51, new org.netbeans.lib.awtextra.AbsoluteConstraints(1110, 260, -1, -1));
 
         jLabel52.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel52.setForeground(new java.awt.Color(51, 51, 51));
         jLabel52.setText("ALCALINOTÉRREOS");
-        getContentPane().add(jLabel52, new org.netbeans.lib.awtextra.AbsoluteConstraints(900, 220, -1, -1));
+        getContentPane().add(jLabel52, new org.netbeans.lib.awtextra.AbsoluteConstraints(900, 260, -1, -1));
 
         jLabel53.setBackground(new java.awt.Color(255, 255, 255));
         jLabel53.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel53.setForeground(new java.awt.Color(51, 51, 51));
         jLabel53.setText("OTROS METALES");
-        getContentPane().add(jLabel53, new org.netbeans.lib.awtextra.AbsoluteConstraints(1110, 300, -1, -1));
+        getContentPane().add(jLabel53, new org.netbeans.lib.awtextra.AbsoluteConstraints(1110, 340, -1, -1));
 
         jLabel54.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel54.setForeground(new java.awt.Color(51, 51, 51));
         jLabel54.setText("Periodo 1");
-        getContentPane().add(jLabel54, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 260, -1, -1));
+        getContentPane().add(jLabel54, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 300, -1, -1));
 
         jLabel55.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel55.setForeground(new java.awt.Color(51, 51, 51));
         jLabel55.setText("Periodo 2");
-        getContentPane().add(jLabel55, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 340, -1, -1));
+        getContentPane().add(jLabel55, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 380, -1, -1));
 
         jLabel56.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel56.setForeground(new java.awt.Color(51, 51, 51));
         jLabel56.setText("Periodo 3");
-        getContentPane().add(jLabel56, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 420, -1, -1));
+        getContentPane().add(jLabel56, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 460, -1, -1));
 
         jLabel57.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel57.setForeground(new java.awt.Color(51, 51, 51));
         jLabel57.setText("Periodo 4");
-        getContentPane().add(jLabel57, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 500, -1, -1));
+        getContentPane().add(jLabel57, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 540, -1, -1));
 
         jLabel3.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel3.setForeground(new java.awt.Color(51, 51, 51));
         jLabel3.setText("Periodo 5");
-        getContentPane().add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 580, -1, 20));
+        getContentPane().add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 620, -1, 20));
 
         jLabel4.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel4.setForeground(new java.awt.Color(51, 51, 51));
         jLabel4.setText("Periodo 6");
-        getContentPane().add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 660, -1, 20));
+        getContentPane().add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 700, -1, 20));
 
         jButton130.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/ROJO.png"))); // NOI18N
         jButton130.setContentAreaFilled(false);
@@ -2051,7 +2055,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton130ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton130, new org.netbeans.lib.awtextra.AbsoluteConstraints(1030, 190, 80, 80));
+        getContentPane().add(jButton130, new org.netbeans.lib.awtextra.AbsoluteConstraints(1030, 230, 80, 80));
 
         jButton131.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/NEGROpng.png"))); // NOI18N
         jButton131.setContentAreaFilled(false);
@@ -2067,7 +2071,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton131ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton131, new org.netbeans.lib.awtextra.AbsoluteConstraints(820, 110, 80, 80));
+        getContentPane().add(jButton131, new org.netbeans.lib.awtextra.AbsoluteConstraints(820, 150, 80, 80));
 
         jButton127.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/AZULPODEROSO.png"))); // NOI18N
         jButton127.setContentAreaFilled(false);
@@ -2077,7 +2081,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton127ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton127, new org.netbeans.lib.awtextra.AbsoluteConstraints(1030, 110, 80, 80));
+        getContentPane().add(jButton127, new org.netbeans.lib.awtextra.AbsoluteConstraints(1030, 150, 80, 80));
 
         jButton132.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ag4 - copia.png"))); // NOI18N
         jButton132.setContentAreaFilled(false);
@@ -2093,7 +2097,7 @@ imagenfondo Imagen=new imagenfondo();
                 jButton132ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton132, new org.netbeans.lib.awtextra.AbsoluteConstraints(820, 190, 80, 80));
+        getContentPane().add(jButton132, new org.netbeans.lib.awtextra.AbsoluteConstraints(820, 230, 80, 80));
 
         jButton133.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ce4.png"))); // NOI18N
         jButton133.setContentAreaFilled(false);
@@ -2109,13 +2113,41 @@ imagenfondo Imagen=new imagenfondo();
                 jButton133ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton133, new org.netbeans.lib.awtextra.AbsoluteConstraints(820, 270, 80, 80));
+        getContentPane().add(jButton133, new org.netbeans.lib.awtextra.AbsoluteConstraints(820, 310, 80, 80));
 
         jLabel50.setBackground(new java.awt.Color(255, 255, 255));
         jLabel50.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         jLabel50.setForeground(new java.awt.Color(51, 51, 51));
         jLabel50.setText("GASES NOBLES");
-        getContentPane().add(jLabel50, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 220, -1, -1));
+        getContentPane().add(jLabel50, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 260, -1, -1));
+
+        textbuscar.setBackground(new java.awt.Color(153, 153, 153));
+        textbuscar.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED, null, java.awt.Color.gray, null, null));
+        textbuscar.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                textbuscarActionPerformed(evt);
+            }
+        });
+        getContentPane().add(textbuscar, new org.netbeans.lib.awtextra.AbsoluteConstraints(1480, 40, 160, 28));
+
+        buscar.setFont(new java.awt.Font("Tahoma", 3, 18)); // NOI18N
+        buscar.setForeground(new java.awt.Color(255, 255, 255));
+        buscar.setText("buscar");
+        buscar.setBorderPainted(false);
+        buscar.setContentAreaFilled(false);
+        buscar.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        buscar.setDefaultCapable(false);
+        buscar.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                buscarMouseClicked(evt);
+            }
+        });
+        buscar.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                buscarActionPerformed(evt);
+            }
+        });
+        getContentPane().add(buscar, new org.netbeans.lib.awtextra.AbsoluteConstraints(1630, 40, -1, 30));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
@@ -2168,10 +2200,10 @@ imagenfondo Imagen=new imagenfondo();
         abrir.setVisible(true);
     }//GEN-LAST:event_jButton50ActionPerformed
 
-    private void jButton117ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton117ActionPerformed
+    private void HActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_HActionPerformed
         // TODO add your handling code here:
           
-    }//GEN-LAST:event_jButton117ActionPerformed
+    }//GEN-LAST:event_HActionPerformed
 
     private void jButton36ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton36ActionPerformed
         // TODO add your handling code here:
@@ -2274,14 +2306,14 @@ imagenfondo Imagen=new imagenfondo();
         // TODO add your handling code here:
     }//GEN-LAST:event_jButton129MouseClicked
 
-    private void jButton117MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton117MouseClicked
+    private void HMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_HMouseClicked
         // TODO add your handling code here:+
             h abrir=new  h();
         abrir.setVisible(true);
         
          
          
-    }//GEN-LAST:event_jButton117MouseClicked
+    }//GEN-LAST:event_HMouseClicked
 
     private void jButton116ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton116ActionPerformed
         // TODO add your handling code here:
@@ -2943,6 +2975,725 @@ imagenfondo Imagen=new imagenfondo();
         abrir.setVisible(true);
     }//GEN-LAST:event_jButton127ActionPerformed
 
+    private void buscarMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_buscarMouseClicked
+        // TODO add your handling code here:
+        if(textbuscar.getText().equalsIgnoreCase("helio")||textbuscar.getText().equalsIgnoreCase("He"))
+        {
+            He helio=new He();
+            helio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("hidrogeno")||textbuscar.getText().equalsIgnoreCase("H")||textbuscar.getText().equalsIgnoreCase("hidrógeno"))
+        {
+        h     h=new h();
+            h.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("litio")||textbuscar.getText().equalsIgnoreCase("Li"))
+        {
+            Li litio=new Li();
+            litio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("berilio")||textbuscar.getText().equalsIgnoreCase("Be"))
+        {
+            Be berilio=new Be();
+            berilio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("boro")||textbuscar.getText().equalsIgnoreCase("b"))
+        {
+            B boro=new B();
+            boro.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("carbono")||textbuscar.getText().equalsIgnoreCase("c"))
+        {
+            C carbono =new C();
+            carbono.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("nitrogeno")||textbuscar.getText().equalsIgnoreCase("n")||textbuscar.getText().equalsIgnoreCase("nitrógeno"))
+        {
+            N nitrogeno=new N();
+            nitrogeno.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("oxigeno")||textbuscar.getText().equalsIgnoreCase("o")||textbuscar.getText().equalsIgnoreCase("oxígeno"))
+        {
+            oxigeno oxigeno=new oxigeno();
+            oxigeno.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("fluor")||textbuscar.getText().equalsIgnoreCase("f")||textbuscar.getText().equalsIgnoreCase("flúor"))
+        {
+            F fluor=new F();
+            fluor.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("neon")||textbuscar.getText().equalsIgnoreCase("ne")||textbuscar.getText().equalsIgnoreCase("neón"))
+        {
+            Ne neon=new Ne();
+            neon.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("sodio")||textbuscar.getText().equalsIgnoreCase("na"))
+        {
+            Na sodio=new Na();
+            sodio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("magnesio")||textbuscar.getText().equalsIgnoreCase("mg"))
+        {
+            Mg magnesio=new Mg();
+            magnesio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("aluminio")||textbuscar.getText().equalsIgnoreCase("al"))
+        {
+            Al aluminio=new Al();
+            aluminio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("silicio")||textbuscar.getText().equalsIgnoreCase("si"))
+        {
+            Si silicio=new Si();
+            silicio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("fosforo")||textbuscar.getText().equalsIgnoreCase("p")||textbuscar.getText().equalsIgnoreCase("fósforo"))
+        {
+            P fosforo=new P();
+            fosforo.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("azufre")||textbuscar.getText().equalsIgnoreCase("s"))
+        {
+          azufre  azufre =new azufre ();
+            azufre.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("cloro")||textbuscar.getText().equalsIgnoreCase("cl"))
+        {
+            Cl cloro=new Cl();
+            cloro.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("argon")||textbuscar.getText().equalsIgnoreCase("ar")||textbuscar.getText().equalsIgnoreCase("argón"))
+        {
+            Ar argon=new Ar();
+            argon.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("potasio")||textbuscar.getText().equalsIgnoreCase("k"))
+        {
+            K potasio=new K();
+            potasio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("calcio")||textbuscar.getText().equalsIgnoreCase("ca"))
+        {
+            Ca calcio=new Ca();
+            calcio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("escandio")||textbuscar.getText().equalsIgnoreCase("sc"))
+        {
+            Es escandio=new Es();
+            escandio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("titanio")||textbuscar.getText().equalsIgnoreCase("ti"))
+        {
+            Ti titanio =new Ti();
+            titanio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("Vanadio")||textbuscar.getText().equalsIgnoreCase("v"))
+        {
+            V vanadio=new V();
+            vanadio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("cromo")||textbuscar.getText().equalsIgnoreCase("cr"))
+        {
+            Cr cromo=new Cr();
+            cromo.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("manganeso")||textbuscar.getText().equalsIgnoreCase("mn"))
+        {
+            Mn manganeso=new Mn();
+            manganeso.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("hierro")||textbuscar.getText().equalsIgnoreCase("fe"))
+        {
+            F hierro =new F();
+            hierro.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("cobalto")||textbuscar.getText().equalsIgnoreCase("co"))
+        {
+            Co cobalto=new Co();
+            cobalto.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("niquel")||textbuscar.getText().equalsIgnoreCase("ni")||textbuscar.getText().equalsIgnoreCase("níquel"))
+        {
+            Ni niquel=new Ni();
+            niquel.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("cobre")||textbuscar.getText().equalsIgnoreCase("cu"))
+        {
+            Cu cobre=new Cu();
+            cobre.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("zinc")||textbuscar.getText().equalsIgnoreCase("zn"))
+        {
+            Zn zinc =new Zn();
+            zinc.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("galio")||textbuscar.getText().equalsIgnoreCase("ga"))
+        {
+            Ga galio=new Ga();
+            galio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("germanio")||textbuscar.getText().equalsIgnoreCase("ge"))
+        {
+            Ge germanio=new Ge();
+            germanio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("arsenico")||textbuscar.getText().equalsIgnoreCase("as")||textbuscar.getText().equalsIgnoreCase("arsénico"))
+        {
+            As arsenico=new As();
+            arsenico.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("selenio")||textbuscar.getText().equalsIgnoreCase("se"))
+        {
+            Se selenio=new Se();
+            selenio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("bromo")||textbuscar.getText().equalsIgnoreCase("br"))
+        {
+            Br bromo=new Br();
+            bromo.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("kripton")||textbuscar.getText().equalsIgnoreCase("kr")||textbuscar.getText().equalsIgnoreCase("kriptón"))
+        {
+            Kr kripton=new Kr();
+            kripton.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("rubidio")||textbuscar.getText().equalsIgnoreCase("rb"))
+        {
+            Rb rubidio=new Rb();
+            rubidio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("estroncio")||textbuscar.getText().equalsIgnoreCase("sr"))
+        {
+            Sr estroncio=new Sr();
+            estroncio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("itrio")||textbuscar.getText().equalsIgnoreCase("y"))
+        {
+            Y itrio =new Y();
+            itrio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("zirconio")||textbuscar.getText().equalsIgnoreCase("zr"))
+        {
+            Zr zicornio=new Zr();
+            zicornio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("niobio")||textbuscar.getText().equalsIgnoreCase("nb"))
+        {
+            Nb niobio=new Nb();
+            niobio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("molibdeno")||textbuscar.getText().equalsIgnoreCase("mo"))
+        {
+            Mo molibdeno=new Mo();
+            molibdeno.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("tecnecio")||textbuscar.getText().equalsIgnoreCase("tc"))
+        {
+            Tc tecnecio=new Tc();
+            tecnecio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("rutenio")||textbuscar.getText().equalsIgnoreCase("ru"))
+        {
+            Ru rutenio=new Ru();
+            rutenio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("rodio")||textbuscar.getText().equalsIgnoreCase("rh"))
+        {
+            Rh rodio=new Rh();
+            rodio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("paladio")||textbuscar.getText().equalsIgnoreCase("pd"))
+        {
+            Pd paladio=new Pd();paladio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("plata")||textbuscar.getText().equalsIgnoreCase("ag"))
+        {
+            Ag plata=new Ag();
+            plata.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("cadmio")||textbuscar.getText().equalsIgnoreCase("cd"))
+        {
+            Cd cadmio=new Cd();
+            cadmio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("indio")||textbuscar.getText().equalsIgnoreCase("in"))
+        {
+            In indio=new In();
+            indio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("estaño")||textbuscar.getText().equalsIgnoreCase("sn"))
+        {
+            Sn estaño=new Sn();
+            estaño.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("Antimonio")||textbuscar.getText().equalsIgnoreCase("sb"))
+        {
+            Sb antimonio=new Sb();
+            antimonio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("teluruo")||textbuscar.getText().equalsIgnoreCase("te"))
+        {
+            Te telurio=new Te();
+            telurio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("yodo")||textbuscar.getText().equalsIgnoreCase("i"))
+        {
+            I yodo=new I();
+            yodo.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("XENON")||textbuscar.getText().equalsIgnoreCase("xe")||textbuscar.getText().equalsIgnoreCase("xenón"))
+        {
+            Xe xenon=new Xe();
+            xenon.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("cesio")||textbuscar.getText().equalsIgnoreCase("cs"))
+        {
+            Cs cesio=new Cs();
+            cesio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("bario")||textbuscar.getText().equalsIgnoreCase("ba"))
+        {
+            Ba bario=new Ba();
+            bario.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("hafnio")||textbuscar.getText().equalsIgnoreCase("hf"))
+        {
+            Hf hafnio=new Hf();
+            hafnio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("tantalio")||textbuscar.getText().equalsIgnoreCase("ta"))
+        {
+            Ta tantalio=new Ta();
+            tantalio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("tungsteno")||textbuscar.getText().equalsIgnoreCase("w")||textbuscar.getText().equalsIgnoreCase("Volframio"))
+        {
+          W tongsteno=new W();
+            tongsteno.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("renio")||textbuscar.getText().equalsIgnoreCase("re"))
+        {
+            Re renio=new Re();
+            renio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("Osmio")||textbuscar.getText().equalsIgnoreCase("os"))
+        {
+            Os osmio=new Os();
+            osmio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("iridio")||textbuscar.getText().equalsIgnoreCase("ir"))
+        {
+            Ir iridio=new Ir();
+            iridio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("platino")||textbuscar.getText().equalsIgnoreCase("pt"))
+        {
+            Pt platino=new Pt();
+            platino.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("oro")||textbuscar.getText().equalsIgnoreCase("au"))
+        {
+            Au oro=new Au();
+            oro.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("MERCURIO")||textbuscar.getText().equalsIgnoreCase("hg"))
+        {
+            Hg mercurio=new Hg();
+            mercurio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("talio")||textbuscar.getText().equalsIgnoreCase("tl"))
+        {
+            Tl talio=new Tl();
+            talio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("PLOMO")||textbuscar.getText().equalsIgnoreCase("pb"))
+        {
+            Pb plomo=new Pb();
+            plomo.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("bismuto")||textbuscar.getText().equalsIgnoreCase("bi"))
+        {
+            Bi bismuto=new Bi();
+            bismuto.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("polonio")||textbuscar.getText().equalsIgnoreCase("po"))
+        {
+            Po polonio=new Po();
+            polonio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("astato")||textbuscar.getText().equalsIgnoreCase("at"))
+        {
+            At astato=new At();
+            astato.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("radon")||textbuscar.getText().equalsIgnoreCase("rn")||textbuscar.getText().equalsIgnoreCase("radón"))
+        {
+            Rn radon=new Rn();
+            radon.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("francio")||textbuscar.getText().equalsIgnoreCase("fr"))
+        {
+            Fr francio=new Fr();
+            francio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("radio")||textbuscar.getText().equalsIgnoreCase("ra"))
+        {
+            Ra radio =new Ra();
+            radio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("rutherfordio")||textbuscar.getText().equalsIgnoreCase("rf"))
+        {
+            Rf ruter=new Rf();
+            ruter.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("dubnio")||textbuscar.getText().equalsIgnoreCase("db"))
+        {
+            Db dubnio=new Db();
+            dubnio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("seaborgio")||textbuscar.getText().equalsIgnoreCase("sg"))
+        {
+            Sg seaborgio=new Sg();
+            seaborgio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("bohrio")||textbuscar.getText().equalsIgnoreCase("bh"))
+        {
+            Bh bh=new Bh();
+            bh.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("hassio")||textbuscar.getText().equalsIgnoreCase("hs"))
+        {
+            Hs hassio=new Hs();
+            hassio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("meitnerio")||textbuscar.getText().equalsIgnoreCase("mt"))
+        {
+            Mt meitnerio=new Mt();
+            meitnerio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("darmstastio")||textbuscar.getText().equalsIgnoreCase("ds"))
+        {
+            Ds darmstadtio=new Ds();
+            darmstadtio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("Roentgenio")||textbuscar.getText().equalsIgnoreCase("rg"))
+        {
+            Rg roentgenio=new Rg();
+            roentgenio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("copernicio")||textbuscar.getText().equalsIgnoreCase("cn"))
+        {
+            Cn copernicio=new Cn();
+            copernicio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("itrio")||textbuscar.getText().equalsIgnoreCase("y"))
+        {
+            Y itrio =new Y();
+            itrio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("nihonio")||textbuscar.getText().equalsIgnoreCase("nh"))
+        {
+            Nh nihonio=new Nh();
+            nihonio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("flerovio")||textbuscar.getText().equalsIgnoreCase("fl"))
+        {
+            Fl flerovio=new Fl();
+            flerovio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("moscovio")||textbuscar.getText().equalsIgnoreCase("mc"))
+        {
+            Mc moscovio=new Mc();
+            moscovio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("livermorio")||textbuscar.getText().equalsIgnoreCase("lv"))
+        {
+            Lv livermorio=new Lv();
+            livermorio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("teneso")||textbuscar.getText().equalsIgnoreCase("ts"))
+        {
+
+            Ts teneso=new Ts();
+            teneso.setVisible(true);
+        }
+        if(textbuscar.getText().equalsIgnoreCase("oganeson")||textbuscar.getText().equalsIgnoreCase("og")||textbuscar.getText().equalsIgnoreCase("oganesón"))
+        {
+
+            Og oganeson=new Og();
+            oganeson.setVisible(true);
+        }
+        if(textbuscar.getText().equalsIgnoreCase("lantano")||textbuscar.getText().equalsIgnoreCase("la"))
+        {
+            La lantano=new La();
+            lantano.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("cerio")||textbuscar.getText().equalsIgnoreCase("ce"))
+        {
+            Ce cerio=new Ce();
+            cerio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("praseodimio")||textbuscar.getText().equalsIgnoreCase("pr"))
+        {
+            Pr praseodimio=new Pr();
+            praseodimio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("neodimio")||textbuscar.getText().equalsIgnoreCase("nd"))
+        {
+            Nd neodimio=new Nd();
+            neodimio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("prometio")||textbuscar.getText().equalsIgnoreCase("pm"))
+        {
+            Pm prometio=new Pm();
+            prometio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("samario")||textbuscar.getText().equalsIgnoreCase("sm"))
+        {
+
+            Sm samario=new Sm();
+            samario.setVisible(true);
+        }
+        if(textbuscar.getText().equalsIgnoreCase("europio")||textbuscar.getText().equalsIgnoreCase("eu"))
+        {
+            Eu europio=new Eu();
+            europio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("gadolinio")||textbuscar.getText().equalsIgnoreCase("gd"))
+        {
+            Gd gadolinio=new Gd();
+            gadolinio.setVisible(true);
+        }
+        if(textbuscar.getText().equalsIgnoreCase("terbio")||textbuscar.getText().equalsIgnoreCase("tb"))
+        {
+            Tb terbio=new Tb();
+            terbio.setVisible(true);
+        }
+        if(textbuscar.getText().equalsIgnoreCase("disprosio")||textbuscar.getText().equalsIgnoreCase("dy"))
+        {
+            Dy disprosio=new Dy();
+            disprosio.setVisible(true);
+        }
+        if(textbuscar.getText().equalsIgnoreCase("holmio")||textbuscar.getText().equalsIgnoreCase("ho"))
+        {
+            Ho holmio=new Ho();
+            holmio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("erbio")||textbuscar.getText().equalsIgnoreCase("er"))
+        {
+            Er erbio=new Er();
+            erbio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("tulio")||textbuscar.getText().equalsIgnoreCase("tm"))
+        {
+            Tm tulio=new Tm();
+            tulio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("iterbio")||textbuscar.getText().equalsIgnoreCase("yb"))
+        {
+
+            Yb iterbio=new Yb();
+            iterbio.setVisible(true);
+        }
+        if(textbuscar.getText().equalsIgnoreCase("lutecio")||textbuscar.getText().equalsIgnoreCase("lu"))
+        {
+           Lu lutecio=new Lu();
+            lutecio.setVisible(true);
+        }
+        if(textbuscar.getText().equalsIgnoreCase("actinicio")||textbuscar.getText().equalsIgnoreCase("ac"))
+        {
+            Ac acticio =new Ac();
+            acticio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("torio")||textbuscar.getText().equalsIgnoreCase("th"))
+        {
+            Th torio=new Th();
+            torio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("protactinio")||textbuscar.getText().equalsIgnoreCase("pa"))
+        {
+            Pa protactinio=new Pa();
+            protactinio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("uranio")||textbuscar.getText().equalsIgnoreCase("u"))
+        {
+            U uranio=new U();
+            uranio.setVisible(true);
+        }
+        if(textbuscar.getText().equalsIgnoreCase("neptunio")||textbuscar.getText().equalsIgnoreCase("np"))
+        {
+            NP neptunio=new NP();
+            neptunio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("plutonio")||textbuscar.getText().equalsIgnoreCase("pu"))
+        {
+
+            PU plutonio=new PU();
+            plutonio.setVisible(true);
+        }
+        if(textbuscar.getText().equalsIgnoreCase("americio")||textbuscar.getText().equalsIgnoreCase("am"))
+        {
+
+            Am americio=new Am();
+            americio.setVisible(true);
+        }
+        if(textbuscar.getText().equalsIgnoreCase("curio")||textbuscar.getText().equalsIgnoreCase("cm"))
+        {
+            Cm curio=new Cm();
+            curio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("berkelio")||textbuscar.getText().equalsIgnoreCase("bk"))
+        {
+            BK berkelio=new BK();
+            berkelio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("californio")||textbuscar.getText().equalsIgnoreCase("cf"))
+        {
+            Cf californio=new Cf();
+            californio.setVisible(true);
+        }
+        if(textbuscar.getText().equalsIgnoreCase("einstenio")||textbuscar.getText().equalsIgnoreCase("es"))
+        {
+            Es einstenio=new Es();
+            einstenio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("fermio")||textbuscar.getText().equalsIgnoreCase("fm"))
+        {
+            Fm fermio=new Fm();
+            fermio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("mendelevio")||textbuscar.getText().equalsIgnoreCase("md"))
+        {
+            Md mendelevio=new Md();
+            mendelevio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("nobelio")||textbuscar.getText().equalsIgnoreCase("no"))
+        {
+            NO nobelio=new NO();
+            nobelio.setVisible(true);
+
+        }
+        if(textbuscar.getText().equalsIgnoreCase("lawrencio")||textbuscar.getText().equalsIgnoreCase("lr"))
+        {
+            Lr lawrencio=new Lr();
+            lawrencio.setVisible(true);
+        }
+        textbuscar.setText("");
+    }//GEN-LAST:event_buscarMouseClicked
+
+    private void buscarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_buscarActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_buscarActionPerformed
+
+    private void textbuscarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_textbuscarActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_textbuscarActionPerformed
+
     /**
      * @param args the command line arguments
      */
@@ -2979,6 +3730,8 @@ imagenfondo Imagen=new imagenfondo();
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JButton H;
+    private javax.swing.JButton buscar;
     private javax.swing.JButton jButton1;
     private javax.swing.JButton jButton10;
     private javax.swing.JButton jButton100;
@@ -2999,7 +3752,6 @@ imagenfondo Imagen=new imagenfondo();
     private javax.swing.JButton jButton114;
     private javax.swing.JButton jButton115;
     private javax.swing.JButton jButton116;
-    private javax.swing.JButton jButton117;
     private javax.swing.JButton jButton118;
     private javax.swing.JButton jButton119;
     private javax.swing.JButton jButton12;
@@ -3163,6 +3915,7 @@ imagenfondo Imagen=new imagenfondo();
     private javax.swing.JLabel jLabel56;
     private javax.swing.JLabel jLabel57;
     private javax.swing.JLabel jLabel9;
+    private javax.swing.JTextField textbuscar;
     // End of variables declaration//GEN-END:variables
 class imagenfondo extends JPanel{
     private Image imagen;

@@ -63,7 +63,7 @@ public class principal extends javax.swing.JFrame {
                 jButton1ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 550, 250, 250));
+        getContentPane().add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 540, 250, 250));
 
         jButton2.setFont(new java.awt.Font("Agency FB", 1, 24)); // NOI18N
         jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/cerrar.png"))); // NOI18N
