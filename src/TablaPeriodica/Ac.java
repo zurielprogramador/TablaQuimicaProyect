@@ -218,7 +218,7 @@ imagenfondo Imagen=new imagenfondo();
 
         getContentPane().add(jScrollPane1, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 320, 310, 170));
 
-        jLabel37.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Actinio.jpg"))); // NOI18N
+        jLabel37.setIcon(new javax.swing.ImageIcon(getClass().getResource("/ImagenesElementos/Actinio.jpg"))); // NOI18N
         jLabel37.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 2));
         getContentPane().add(jLabel37, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 20, 280, 270));
 
@@ -229,13 +229,13 @@ imagenfondo Imagen=new imagenfondo();
         getContentPane().add(jLabel38, new org.netbeans.lib.awtextra.AbsoluteConstraints(1510, 20, -1, -1));
 
         jButton5.setFont(new java.awt.Font("Agency FB", 1, 36)); // NOI18N
-        jButton5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/cerrar.png"))); // NOI18N
+        jButton5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/cerrar.png"))); // NOI18N
         jButton5.setText("Salir");
         jButton5.setBorder(null);
         jButton5.setContentAreaFilled(false);
         jButton5.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        jButton5.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/cerrar.png"))); // NOI18N
-        jButton5.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/cerrar2.png"))); // NOI18N
+        jButton5.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/cerrar.png"))); // NOI18N
+        jButton5.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/cerrar2.png"))); // NOI18N
         jButton5.setVerticalAlignment(javax.swing.SwingConstants.BOTTOM);
         jButton5.setVerticalTextPosition(javax.swing.SwingConstants.BOTTOM);
         jButton5.addActionListener(new java.awt.event.ActionListener() {
@@ -246,13 +246,13 @@ imagenfondo Imagen=new imagenfondo();
         getContentPane().add(jButton5, new org.netbeans.lib.awtextra.AbsoluteConstraints(1600, 770, 170, 190));
 
         jButton7.setFont(new java.awt.Font("Agency FB", 1, 24)); // NOI18N
-        jButton7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Tabla.png"))); // NOI18N
+        jButton7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/Tabla.png"))); // NOI18N
         jButton7.setText("Ir a la Tabla");
         jButton7.setBorder(null);
         jButton7.setContentAreaFilled(false);
         jButton7.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        jButton7.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Tabla.png"))); // NOI18N
-        jButton7.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Tabla2.png"))); // NOI18N
+        jButton7.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/Tabla.png"))); // NOI18N
+        jButton7.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/Tabla2.png"))); // NOI18N
         jButton7.setVerticalAlignment(javax.swing.SwingConstants.BOTTOM);
         jButton7.setVerticalTextPosition(javax.swing.SwingConstants.BOTTOM);
         jButton7.addActionListener(new java.awt.event.ActionListener() {

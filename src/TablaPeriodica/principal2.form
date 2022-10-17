@@ -5,7 +5,7 @@
     <Property name="defaultCloseOperation" type="int" value="3"/>
     <Property name="title" type="java.lang.String" value="TABLA PERIODICA"/>
     <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
-      <Color id="Cursor Por defecto"/>
+      <Color id="Default Cursor"/>
     </Property>
     <Property name="undecorated" type="boolean" value="true"/>
   </Properties>
@@ -97,7 +97,7 @@
     <Component class="javax.swing.JButton" name="jButton3">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/S5.png"/>
+          <Image iconType="3" name="/IconosNormales/S5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -124,7 +124,7 @@
     <Component class="javax.swing.JButton" name="jButton4">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Li5.png"/>
+          <Image iconType="3" name="/IconosNormales/Li5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -150,7 +150,7 @@
     <Component class="javax.swing.JButton" name="jButton5">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ca5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ca5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -175,7 +175,7 @@
     <Component class="javax.swing.JButton" name="jButton6">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/k5.png"/>
+          <Image iconType="3" name="/IconosNormales/k5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -200,7 +200,7 @@
     <Component class="javax.swing.JButton" name="jButton7">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Fr5.png"/>
+          <Image iconType="3" name="/IconosNormales/Fr5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -225,7 +225,7 @@
     <Component class="javax.swing.JButton" name="jButton8">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Rb5.png"/>
+          <Image iconType="3" name="/IconosNormales/Rb5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -250,7 +250,7 @@
     <Component class="javax.swing.JButton" name="jButton9">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Rh5.png"/>
+          <Image iconType="3" name="/IconosNormales/Rh5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -275,7 +275,7 @@
     <Component class="javax.swing.JButton" name="jButton10">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Cs5.png"/>
+          <Image iconType="3" name="/IconosNormales/Cs5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -300,7 +300,7 @@
     <Component class="javax.swing.JButton" name="jButton11">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ba15.png"/>
+          <Image iconType="3" name="/IconosNormales/Ba5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -325,7 +325,7 @@
     <Component class="javax.swing.JButton" name="jButton12">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ra5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ra5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -350,7 +350,7 @@
     <Component class="javax.swing.JButton" name="jButton13">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/No5.png"/>
+          <Image iconType="3" name="/IconosNormales/No5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -375,7 +375,7 @@
     <Component class="javax.swing.JButton" name="jButton14">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ti5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ti5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -400,7 +400,7 @@
     <Component class="javax.swing.JButton" name="jButton15">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Hf5.png"/>
+          <Image iconType="3" name="/IconosNormales/Hf5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -425,7 +425,7 @@
     <Component class="javax.swing.JButton" name="jButton16">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/AC15.png"/>
+          <Image iconType="3" name="/IconosNormales/AC15.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -450,7 +450,7 @@
     <Component class="javax.swing.JButton" name="jButton17">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ce15.png"/>
+          <Image iconType="3" name="/IconosNormales/Ce15.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -475,7 +475,7 @@
     <Component class="javax.swing.JButton" name="jButton18">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Th5.png"/>
+          <Image iconType="3" name="/IconosNormales/Th5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -500,7 +500,7 @@
     <Component class="javax.swing.JButton" name="jButton19">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Pr5.png"/>
+          <Image iconType="3" name="/IconosNormales/Pr5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -525,7 +525,7 @@
     <Component class="javax.swing.JButton" name="jButton20">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Pa5.png"/>
+          <Image iconType="3" name="/IconosNormales/Pa5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -550,7 +550,7 @@
     <Component class="javax.swing.JButton" name="jButton22">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/U5.png"/>
+          <Image iconType="3" name="/IconosNormales/U5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -575,7 +575,7 @@
     <Component class="javax.swing.JButton" name="jButton23">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Pm5.png"/>
+          <Image iconType="3" name="/IconosNormales/Pm5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -600,7 +600,7 @@
     <Component class="javax.swing.JButton" name="jButton24">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Sm5.png"/>
+          <Image iconType="3" name="/IconosNormales/Sm5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -625,7 +625,7 @@
     <Component class="javax.swing.JButton" name="jButton25">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Eu5.png"/>
+          <Image iconType="3" name="/IconosNormales/Eu5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -650,7 +650,7 @@
     <Component class="javax.swing.JButton" name="jButton26">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Gd5.png"/>
+          <Image iconType="3" name="/IconosNormales/Gd5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -675,7 +675,7 @@
     <Component class="javax.swing.JButton" name="jButton27">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Tb5.png"/>
+          <Image iconType="3" name="/JavaApplication190/Tb5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -700,7 +700,7 @@
     <Component class="javax.swing.JButton" name="jButton28">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/La5.png"/>
+          <Image iconType="3" name="/IconosNormales/La5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -725,7 +725,7 @@
     <Component class="javax.swing.JButton" name="jButton29">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Nd5.png"/>
+          <Image iconType="3" name="/IconosNormales/Nd5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -750,7 +750,7 @@
     <Component class="javax.swing.JButton" name="jButton30">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Np5.png"/>
+          <Image iconType="3" name="/IconosNormales/Np5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -775,7 +775,7 @@
     <Component class="javax.swing.JButton" name="jButton31">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Pu5.png"/>
+          <Image iconType="3" name="/IconosNormales/Pu5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -800,7 +800,7 @@
     <Component class="javax.swing.JButton" name="jButton32">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Am5.png"/>
+          <Image iconType="3" name="/IconosNormales/Am5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -825,7 +825,7 @@
     <Component class="javax.swing.JButton" name="jButton33">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Cm5.png"/>
+          <Image iconType="3" name="/IconosNormales/Cm5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -850,7 +850,7 @@
     <Component class="javax.swing.JButton" name="jButton34">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Cf5.png"/>
+          <Image iconType="3" name="/IconosNormales/Cf5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -875,7 +875,7 @@
     <Component class="javax.swing.JButton" name="jButton35">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ho5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ho5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -900,7 +900,7 @@
     <Component class="javax.swing.JButton" name="jButton36">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Es5.png"/>
+          <Image iconType="3" name="/IconosNormales/Es5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -925,7 +925,7 @@
     <Component class="javax.swing.JButton" name="jButton37">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Bk5.png"/>
+          <Image iconType="3" name="/IconosNormales/Bk5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -950,7 +950,7 @@
     <Component class="javax.swing.JButton" name="jButton38">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Fm5.png"/>
+          <Image iconType="3" name="/IconosNormales/Fm5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -975,7 +975,7 @@
     <Component class="javax.swing.JButton" name="jButton39">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Tm5.png"/>
+          <Image iconType="3" name="/JavaApplication190/Tm5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1000,7 +1000,7 @@
     <Component class="javax.swing.JButton" name="jButton40">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Dy5.png"/>
+          <Image iconType="3" name="/IconosNormales/Dy5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1025,7 +1025,7 @@
     <Component class="javax.swing.JButton" name="jButton41">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Yb5.png"/>
+          <Image iconType="3" name="/IconosNormales/Yb5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1050,7 +1050,7 @@
     <Component class="javax.swing.JButton" name="jButton42">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Er5.png"/>
+          <Image iconType="3" name="/IconosNormales/Er5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1075,7 +1075,7 @@
     <Component class="javax.swing.JButton" name="jButton43">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Md5.png"/>
+          <Image iconType="3" name="/IconosNormales/Md5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1097,7 +1097,7 @@
     <Component class="javax.swing.JButton" name="jButton44">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Y5.png"/>
+          <Image iconType="3" name="/IconosNormales/Y5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1122,7 +1122,7 @@
     <Component class="javax.swing.JButton" name="jButton45">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/estrella.png"/>
+          <Image iconType="3" name="/Imagenes/estrella.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1141,7 +1141,7 @@
     <Component class="javax.swing.JButton" name="jButton46">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/estrella.png"/>
+          <Image iconType="3" name="/Imagenes/estrella.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1157,7 +1157,7 @@
     <Component class="javax.swing.JButton" name="jButton47">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Zr5.png"/>
+          <Image iconType="3" name="/JavaApplication190/Zr5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1182,7 +1182,7 @@
     <Component class="javax.swing.JButton" name="jButton48">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Sr5.png"/>
+          <Image iconType="3" name="/IconosNormales/Sr5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1207,7 +1207,7 @@
     <Component class="javax.swing.JButton" name="jButton49">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Mg5.png"/>
+          <Image iconType="3" name="/IconosNormales/Mg5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1232,7 +1232,7 @@
     <Component class="javax.swing.JButton" name="jButton50">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Rf5.png"/>
+          <Image iconType="3" name="/IconosNormales/Rf5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1257,7 +1257,7 @@
     <Component class="javax.swing.JButton" name="jButton51">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/V5.png"/>
+          <Image iconType="3" name="/IconosNormales/V5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1282,7 +1282,7 @@
     <Component class="javax.swing.JButton" name="jButton52">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Nb5.png"/>
+          <Image iconType="3" name="/JavaApplication190/Nb5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1307,7 +1307,7 @@
     <Component class="javax.swing.JButton" name="jButton53">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ta5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ta5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1332,7 +1332,7 @@
     <Component class="javax.swing.JButton" name="jButton54">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Na5.png"/>
+          <Image iconType="3" name="/IconosNormales/Na5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1358,7 +1358,7 @@
     <Component class="javax.swing.JButton" name="jButton55">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Cr5.png"/>
+          <Image iconType="3" name="/IconosNormales/Cr5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1383,7 +1383,7 @@
     <Component class="javax.swing.JButton" name="jButton56">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Mo5.png"/>
+          <Image iconType="3" name="/IconosNormales/Mo5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1408,7 +1408,7 @@
     <Component class="javax.swing.JButton" name="jButton57">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/W5.png"/>
+          <Image iconType="3" name="/IconosNormales/W5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1433,7 +1433,7 @@
     <Component class="javax.swing.JButton" name="jButton58">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Cd5.png"/>
+          <Image iconType="3" name="/IconosNormales/Cd5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1458,7 +1458,7 @@
     <Component class="javax.swing.JButton" name="jButton59">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Be5.png"/>
+          <Image iconType="3" name="/IconosNormales/Be5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1483,7 +1483,7 @@
     <Component class="javax.swing.JButton" name="jButton60">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Re5.png"/>
+          <Image iconType="3" name="/IconosNormales/Re5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1508,7 +1508,7 @@
     <Component class="javax.swing.JButton" name="jButton61">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Tc5.png"/>
+          <Image iconType="3" name="/IconosNormales/Tc5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1533,7 +1533,7 @@
     <Component class="javax.swing.JButton" name="jButton62">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Mn5.png"/>
+          <Image iconType="3" name="/IconosNormales/Mn5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1558,7 +1558,7 @@
     <Component class="javax.swing.JButton" name="jButton63">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Fe5.png"/>
+          <Image iconType="3" name="/JavaApplication190/Fe5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1580,7 +1580,7 @@
     <Component class="javax.swing.JButton" name="jButton64">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ru5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ru5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1605,7 +1605,7 @@
     <Component class="javax.swing.JButton" name="jButton65">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Os5.png"/>
+          <Image iconType="3" name="/IconosNormales/Os5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1630,7 +1630,7 @@
     <Component class="javax.swing.JButton" name="jButton66">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Sg5.png"/>
+          <Image iconType="3" name="/IconosNormales/Sg5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1655,7 +1655,7 @@
     <Component class="javax.swing.JButton" name="jButton67">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Co5.png"/>
+          <Image iconType="3" name="/IconosNormales/Co5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1680,7 +1680,7 @@
     <Component class="javax.swing.JButton" name="jButton68">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Db5.png"/>
+          <Image iconType="3" name="/IconosNormales/Db5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1705,7 +1705,7 @@
     <Component class="javax.swing.JButton" name="jButton69">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ir5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ir5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1730,7 +1730,7 @@
     <Component class="javax.swing.JButton" name="jButton70">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Mt5.png"/>
+          <Image iconType="3" name="/IconosNormales/Mt5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1755,7 +1755,7 @@
     <Component class="javax.swing.JButton" name="jButton71">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ni5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ni5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1780,7 +1780,7 @@
     <Component class="javax.swing.JButton" name="jButton72">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Pd5.png"/>
+          <Image iconType="3" name="/IconosNormales/Pd5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1805,7 +1805,7 @@
     <Component class="javax.swing.JButton" name="jButton73">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Pt5.png"/>
+          <Image iconType="3" name="/IconosNormales/Pt5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1830,7 +1830,7 @@
     <Component class="javax.swing.JButton" name="jButton74">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ds5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ds5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1855,7 +1855,7 @@
     <Component class="javax.swing.JButton" name="jButton75">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Hs5.png"/>
+          <Image iconType="3" name="/IconosNormales/Hs5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1880,7 +1880,7 @@
     <Component class="javax.swing.JButton" name="jButton76">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/AGG5.png"/>
+          <Image iconType="3" name="/IconosNormales/AGG5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1902,7 +1902,7 @@
     <Component class="javax.swing.JButton" name="jButton77">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Bh5.png"/>
+          <Image iconType="3" name="/IconosNormales/Bh5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1927,7 +1927,7 @@
     <Component class="javax.swing.JButton" name="jButton78">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Rg5.png"/>
+          <Image iconType="3" name="/IconosNormales/Rg5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1952,7 +1952,7 @@
     <Component class="javax.swing.JButton" name="jButton79">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Zn5.png"/>
+          <Image iconType="3" name="/IconosNormales/Zn5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -1977,7 +1977,7 @@
     <Component class="javax.swing.JButton" name="jButton80">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Cu5.png"/>
+          <Image iconType="3" name="/IconosNormales/Cu5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2002,7 +2002,7 @@
     <Component class="javax.swing.JButton" name="jButton81">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Hg5.png"/>
+          <Image iconType="3" name="/IconosNormales/Hg5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2027,7 +2027,7 @@
     <Component class="javax.swing.JButton" name="jButton82">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Cn5.png"/>
+          <Image iconType="3" name="/IconosNormales/Cn5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2052,7 +2052,7 @@
     <Component class="javax.swing.JButton" name="jButton83">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Au5.png"/>
+          <Image iconType="3" name="/IconosNormales/Au5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2077,7 +2077,7 @@
     <Component class="javax.swing.JButton" name="jButton84">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Sc5.png"/>
+          <Image iconType="3" name="/IconosNormales/Sc5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2102,7 +2102,7 @@
     <Component class="javax.swing.JButton" name="jButton85">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Sb6.png"/>
+          <Image iconType="3" name="/IconosNormales/Sb6.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2127,7 +2127,7 @@
     <Component class="javax.swing.JButton" name="jButton86">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ga5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ga5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2152,7 +2152,7 @@
     <Component class="javax.swing.JButton" name="jButton87">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Nh5.png"/>
+          <Image iconType="3" name="/IconosNormales/Nh5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2177,7 +2177,7 @@
     <Component class="javax.swing.JButton" name="jButton88">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/AL66.png"/>
+          <Image iconType="3" name="/IconosNormales/AL66.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2199,7 +2199,7 @@
     <Component class="javax.swing.JButton" name="jButton89">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/B8.png"/>
+          <Image iconType="3" name="/JavaApplication190/B8.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2224,7 +2224,7 @@
     <Component class="javax.swing.JButton" name="jButton90">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Sn5.png"/>
+          <Image iconType="3" name="/IconosNormales/Sn5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2249,7 +2249,7 @@
     <Component class="javax.swing.JButton" name="jButton91">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Fl5.png"/>
+          <Image iconType="3" name="/IconosNormales/Fl5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2274,7 +2274,7 @@
     <Component class="javax.swing.JButton" name="jButton92">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/As6.png"/>
+          <Image iconType="3" name="/IconosNormales/As6.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2299,7 +2299,7 @@
     <Component class="javax.swing.JButton" name="jButton93">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ge6.png"/>
+          <Image iconType="3" name="/JavaApplication190/Ge6.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2324,7 +2324,7 @@
     <Component class="javax.swing.JButton" name="jButton94">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Bi5.png"/>
+          <Image iconType="3" name="/IconosNormales/Bi5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2349,7 +2349,7 @@
     <Component class="javax.swing.JButton" name="jButton95">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Mc5.png"/>
+          <Image iconType="3" name="/IconosNormales/Mc5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2374,7 +2374,7 @@
     <Component class="javax.swing.JButton" name="jButton96">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Pb5.png"/>
+          <Image iconType="3" name="/IconosNormales/Pb5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2399,7 +2399,7 @@
     <Component class="javax.swing.JButton" name="jButton97">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Xe5.png"/>
+          <Image iconType="3" name="/IconosNormales/Xe5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2424,7 +2424,7 @@
     <Component class="javax.swing.JButton" name="jButton98">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Se5.png"/>
+          <Image iconType="3" name="/IconosNormales/Se5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2449,7 +2449,7 @@
     <Component class="javax.swing.JButton" name="jButton99">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Te6.png"/>
+          <Image iconType="3" name="/IconosNormales/Te6.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2474,7 +2474,7 @@
     <Component class="javax.swing.JButton" name="jButton100">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Po6.png"/>
+          <Image iconType="3" name="/IconosNormales/Po6.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2499,7 +2499,7 @@
     <Component class="javax.swing.JButton" name="jButton101">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Lv5.png"/>
+          <Image iconType="3" name="/IconosNormales/Lv5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2524,7 +2524,7 @@
     <Component class="javax.swing.JButton" name="jButton102">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/I5.png"/>
+          <Image iconType="3" name="/IconosNormales/I5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2546,7 +2546,7 @@
     <Component class="javax.swing.JButton" name="jButton103">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ts5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ts5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2571,7 +2571,7 @@
     <Component class="javax.swing.JButton" name="jButton104">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Kr5.png"/>
+          <Image iconType="3" name="/IconosNormales/Kr5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2596,7 +2596,7 @@
     <Component class="javax.swing.JButton" name="jButton105">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/BR5.png"/>
+          <Image iconType="3" name="/IconosNormales/BR5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2621,7 +2621,7 @@
     <Component class="javax.swing.JButton" name="jButton106">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Rn5.png"/>
+          <Image iconType="3" name="/IconosNormales/Rn5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2646,7 +2646,7 @@
     <Component class="javax.swing.JButton" name="jButton107">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Og5.png"/>
+          <Image iconType="3" name="/IconosNormales/Og5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2671,7 +2671,7 @@
     <Component class="javax.swing.JButton" name="jButton108">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/At5.png"/>
+          <Image iconType="3" name="/IconosNormales/At5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2696,7 +2696,7 @@
     <Component class="javax.swing.JButton" name="jButton109">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/p5.png"/>
+          <Image iconType="3" name="/IconosNormales/p5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2721,7 +2721,7 @@
     <Component class="javax.swing.JButton" name="jButton110">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/In5.png"/>
+          <Image iconType="3" name="/IconosNormales/In5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2746,7 +2746,7 @@
     <Component class="javax.swing.JButton" name="jButton111">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Tl5.png"/>
+          <Image iconType="3" name="/IconosNormales/Tl5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2771,7 +2771,7 @@
     <Component class="javax.swing.JButton" name="jButton112">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Si7.png"/>
+          <Image iconType="3" name="/IconosNormales/Si7.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2796,7 +2796,7 @@
     <Component class="javax.swing.JButton" name="jButton113">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/N5.png"/>
+          <Image iconType="3" name="/JavaApplication190/N5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2821,7 +2821,7 @@
     <Component class="javax.swing.JButton" name="jButton114">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/C5.png"/>
+          <Image iconType="3" name="/IconosNormales/C5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2846,7 +2846,7 @@
     <Component class="javax.swing.JButton" name="jButton115">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ar5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ar5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2871,7 +2871,7 @@
     <Component class="javax.swing.JButton" name="jButton116">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/O5.png"/>
+          <Image iconType="3" name="/IconosNormales/O5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2900,7 +2900,7 @@
           <Color blue="33" green="33" red="33" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/H5.png"/>
+          <Image iconType="3" name="/IconosNormales/H5.png"/>
         </Property>
         <Property name="toolTipText" type="java.lang.String" value=""/>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
@@ -2928,7 +2928,7 @@
     <Component class="javax.swing.JButton" name="jButton118">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Cl5.png"/>
+          <Image iconType="3" name="/IconosNormales/Cl5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2953,7 +2953,7 @@
     <Component class="javax.swing.JButton" name="jButton119">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/He5.png"/>
+          <Image iconType="3" name="/IconosNormales/He5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -2978,7 +2978,7 @@
     <Component class="javax.swing.JButton" name="jButton120">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/F5.png"/>
+          <Image iconType="3" name="/IconosNormales/F5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -3003,7 +3003,7 @@
     <Component class="javax.swing.JButton" name="jButton121">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ne5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ne5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -3028,7 +3028,7 @@
     <Component class="javax.swing.JButton" name="jButton21">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Lu5.png"/>
+          <Image iconType="3" name="/IconosNormales/Lu5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -3053,7 +3053,7 @@
     <Component class="javax.swing.JButton" name="jButton122">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Lr5.png"/>
+          <Image iconType="3" name="/IconosNormales/Lr5.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -4190,7 +4190,7 @@
         <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
-          <Color id="Cursor Por defecto"/>
+          <Color id="Default Cursor"/>
         </Property>
         <Property name="defaultCapable" type="boolean" value="false"/>
       </Properties>
