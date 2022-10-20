@@ -98,10 +98,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/S5.png"/>
+          <Image iconType="3" name="/IconosNormales/S5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/S125.png"/>
+          <Image iconType="3" name="/IconosGrandes/S125.png"/>
         </Property>
         <Property name="verticalTextPosition" type="int" value="3"/>
       </Properties>
@@ -125,10 +125,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Li5.png"/>
+          <Image iconType="3" name="/IconosNormales/Li5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Li125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Li125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -151,10 +151,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ca5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ca5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ca125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Ca125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -176,10 +176,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/k5.png"/>
+          <Image iconType="3" name="/IconosNormales/k5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/k125.png"/>
+          <Image iconType="3" name="/IconosGrandes/k125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -201,10 +201,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Fr5.png"/>
+          <Image iconType="3" name="/IconosNormales/Fr5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Fr125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Fr125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -226,10 +226,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Rb5.png"/>
+          <Image iconType="3" name="/IconosNormales/Rb5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Rb125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Rb125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -251,10 +251,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Rh5.png"/>
+          <Image iconType="3" name="/IconosNormales/Rh5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Rh125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Rh125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -276,10 +276,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Cs5.png"/>
+          <Image iconType="3" name="/IconosNormales/Cs5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Cs125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Cs125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -301,10 +301,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ba15.png"/>
+          <Image iconType="3" name="/IconosNormales/Ba15.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ba125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Ba125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -326,10 +326,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ra5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ra5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ra125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Ra125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -376,10 +376,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ti5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ti5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ti125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Ti125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -401,10 +401,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Hf5.png"/>
+          <Image iconType="3" name="/IconosNormales/Hf5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Hf125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Hf125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1099,10 +1099,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Y5.png"/>
+          <Image iconType="3" name="/IconosNormales/Y5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Y125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Y125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1159,10 +1159,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Zr5.png"/>
+          <Image iconType="3" name="/IconosNormales/Zr5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Zr125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Zr125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1184,10 +1184,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Sr5.png"/>
+          <Image iconType="3" name="/IconosNormales/Sr5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Sr125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Sr125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1209,10 +1209,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Mg5.png"/>
+          <Image iconType="3" name="/IconosNormales/Mg5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Mg125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Mg125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1234,10 +1234,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Rf5.png"/>
+          <Image iconType="3" name="/IconosNormales/Rf5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Rf125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Rf125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1259,10 +1259,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/V5.png"/>
+          <Image iconType="3" name="/IconosNormales/V5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/V125.png"/>
+          <Image iconType="3" name="/IconosGrandes/V125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1284,10 +1284,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Nb5.png"/>
+          <Image iconType="3" name="/IconosNormales/Nb5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Nb125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Nb125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1309,10 +1309,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ta5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ta5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ta125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Ta125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1334,11 +1334,11 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Na5.png"/>
+          <Image iconType="3" name="/IconosNormales/Na5.png"/>
         </Property>
         <Property name="requestFocusEnabled" type="boolean" value="false"/>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Na125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Na125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1360,10 +1360,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Cr5.png"/>
+          <Image iconType="3" name="/IconosNormales/Cr5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Cr125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Cr125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1385,10 +1385,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Mo5.png"/>
+          <Image iconType="3" name="/IconosNormales/Mo5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Mo125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Mo125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1410,10 +1410,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/W5.png"/>
+          <Image iconType="3" name="/IconosNormales/W5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/W125.png"/>
+          <Image iconType="3" name="/IconosGrandes/W125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1435,10 +1435,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Cd5.png"/>
+          <Image iconType="3" name="/IconosNormales/Cd5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Cd125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Cd125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1460,10 +1460,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Be5.png"/>
+          <Image iconType="3" name="/IconosNormales/Be5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Be125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Be125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1480,15 +1480,17 @@
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
           <Image iconType="3" name="/IconosNormales/Re5.png"/>
         </Property>
+        <Property name="autoscrolls" type="boolean" value="true"/>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Re5.png"/>
+          <Image iconType="3" name="/IconosNormales/Re5.png"/>
         </Property>
+        <Property name="rolloverEnabled" type="boolean" value="false"/>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Re125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Re125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1510,10 +1512,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Tc5.png"/>
+          <Image iconType="3" name="/IconosNormales/Tc5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Tc125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Tc125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1535,10 +1537,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Mn5.png"/>
+          <Image iconType="3" name="/IconosNormales/Mn5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Mn125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Mn125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1560,7 +1562,7 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Fe125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Fe125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1582,10 +1584,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ru5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ru5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ru125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Ru125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1607,10 +1609,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Os5.png"/>
+          <Image iconType="3" name="/IconosNormales/Os5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Os125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Os125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1632,10 +1634,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Sg5.png"/>
+          <Image iconType="3" name="/IconosNormales/Sg5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Sg125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Sg125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1657,10 +1659,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Co5.png"/>
+          <Image iconType="3" name="/IconosNormales/Co5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Co125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Co125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1682,10 +1684,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Db5.png"/>
+          <Image iconType="3" name="/IconosNormales/Db5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Db125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Db125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1707,10 +1709,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ir5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ir5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ir125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Ir125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1732,10 +1734,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Mt5.png"/>
+          <Image iconType="3" name="/IconosNormales/Mt5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Mt125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Mt125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1757,10 +1759,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ni5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ni5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ni125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Ni125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1782,10 +1784,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Pd5.png"/>
+          <Image iconType="3" name="/IconosNormales/Pd5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Pd125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Pd125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1807,10 +1809,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Pt5.png"/>
+          <Image iconType="3" name="/IconosNormales/Pt5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Pt125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Pt125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1832,10 +1834,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ds5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ds5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ds125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Ds125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1857,10 +1859,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Hs5.png"/>
+          <Image iconType="3" name="/IconosNormales/Hs5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Hs125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Hs125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1882,7 +1884,7 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/AGG125.png"/>
+          <Image iconType="3" name="/IconosGrandes/AGG125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1904,10 +1906,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Bh5.png"/>
+          <Image iconType="3" name="/IconosNormales/Bh5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Bh125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Bh125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1929,10 +1931,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Rg5.png"/>
+          <Image iconType="3" name="/IconosNormales/Rg5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Rg125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Rg125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1954,10 +1956,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Zn5.png"/>
+          <Image iconType="3" name="/IconosNormales/Zn5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Zn125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Zn125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -1979,10 +1981,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Cu5.png"/>
+          <Image iconType="3" name="/IconosNormales/Cu5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Cu125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Cu125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2004,10 +2006,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Hg5.png"/>
+          <Image iconType="3" name="/IconosNormales/Hg5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Hg125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Hg125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2029,10 +2031,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Cn5.png"/>
+          <Image iconType="3" name="/IconosNormales/Cn5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Cn125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Cn125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2054,10 +2056,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Au5.png"/>
+          <Image iconType="3" name="/IconosNormales/Au5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Au125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Au125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2079,10 +2081,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Sc5.png"/>
+          <Image iconType="3" name="/IconosNormales/Sc5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Sc125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Sc125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2104,10 +2106,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Sb6.png"/>
+          <Image iconType="3" name="/IconosNormales/Sb6.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Sb16.png"/>
+          <Image iconType="3" name="/IconosGrandes/Sb16.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2129,10 +2131,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ga5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ga5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ga125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Ga125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2154,10 +2156,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Nh5.png"/>
+          <Image iconType="3" name="/IconosNormales/Nh5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Nh125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Nh125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2179,7 +2181,7 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Al125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Al125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2201,10 +2203,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/B8.png"/>
+          <Image iconType="3" name="/IconosNormales/B7.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/B18.png"/>
+          <Image iconType="3" name="/IconosGrandes/B16.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2226,10 +2228,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Sn5.png"/>
+          <Image iconType="3" name="/IconosNormales/Sn5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Sn125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Sn125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2251,10 +2253,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Fl5.png"/>
+          <Image iconType="3" name="/IconosNormales/Fl5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Fl125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Fl125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2276,10 +2278,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/As6.png"/>
+          <Image iconType="3" name="/IconosNormales/As6.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/As16.png"/>
+          <Image iconType="3" name="/IconosGrandes/As16.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2301,10 +2303,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ge6.png"/>
+          <Image iconType="3" name="/IconosNormales/Ge6.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ge16.png"/>
+          <Image iconType="3" name="/IconosGrandes/Ge16.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2326,10 +2328,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Bi5.png"/>
+          <Image iconType="3" name="/IconosNormales/Bi5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Bi125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Bi125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2351,10 +2353,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Mc5.png"/>
+          <Image iconType="3" name="/IconosNormales/Mc5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Mc125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Mc125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2376,10 +2378,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Pb5.png"/>
+          <Image iconType="3" name="/IconosNormales/Pb5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Pb125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Pb125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2401,10 +2403,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Xe5.png"/>
+          <Image iconType="3" name="/IconosNormales/Xe5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Xe125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Xe125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2426,10 +2428,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Se5.png"/>
+          <Image iconType="3" name="/IconosNormales/Se5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Se125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Se125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2451,10 +2453,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Te6.png"/>
+          <Image iconType="3" name="/IconosNormales/Te6.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Te16.png"/>
+          <Image iconType="3" name="/IconosGrandes/Te16.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2476,10 +2478,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Po6.png"/>
+          <Image iconType="3" name="/IconosNormales/Po6.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Po16.png"/>
+          <Image iconType="3" name="/IconosGrandes/Po16.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2501,10 +2503,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Lv5.png"/>
+          <Image iconType="3" name="/IconosNormales/Lv5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Lv125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Lv125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2526,7 +2528,7 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/I25.png"/>
+          <Image iconType="3" name="/IconosGrandes/I25.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2548,10 +2550,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ts5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ts5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ts125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Ts125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2573,10 +2575,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Kr5.png"/>
+          <Image iconType="3" name="/IconosNormales/Kr5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Kr125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Kr125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2598,10 +2600,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/BR5.png"/>
+          <Image iconType="3" name="/IconosNormales/BR5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/BR125.png"/>
+          <Image iconType="3" name="/IconosGrandes/BR125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2623,10 +2625,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Rn5.png"/>
+          <Image iconType="3" name="/IconosNormales/Rn5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Rn125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Rn125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2648,10 +2650,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Og5.png"/>
+          <Image iconType="3" name="/IconosNormales/Og5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Og125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Og125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2673,10 +2675,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/At5.png"/>
+          <Image iconType="3" name="/IconosNormales/At5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/At125.png"/>
+          <Image iconType="3" name="/IconosGrandes/At125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2698,10 +2700,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/p5.png"/>
+          <Image iconType="3" name="/JavaApplication190/p5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/p125.png"/>
+          <Image iconType="3" name="/IconosGrandes/p125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2723,10 +2725,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/In5.png"/>
+          <Image iconType="3" name="/IconosNormales/In5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/In125.png"/>
+          <Image iconType="3" name="/IconosGrandes/In125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2748,10 +2750,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Tl5.png"/>
+          <Image iconType="3" name="/IconosNormales/Tl5.png"/>
         </Property>
         <Property name="selectedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Tl125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Tl125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2773,10 +2775,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Si7.png"/>
+          <Image iconType="3" name="/IconosNormales/Si7.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Si17.png"/>
+          <Image iconType="3" name="/IconosGrandes/Si16.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2798,10 +2800,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/N5.png"/>
+          <Image iconType="3" name="/JavaApplication190/N5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/N125.png"/>
+          <Image iconType="3" name="/IconosGrandes/N125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2823,10 +2825,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/C5.png"/>
+          <Image iconType="3" name="/IconosNormales/C5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/C125.png"/>
+          <Image iconType="3" name="/IconosGrandes/C125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2848,10 +2850,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ar5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ar5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ar125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Ar125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2873,10 +2875,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/O5.png"/>
+          <Image iconType="3" name="/IconosNormales/O5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/O125.png"/>
+          <Image iconType="3" name="/IconosGrandes/O125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2903,11 +2905,11 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/H5.png"/>
+          <Image iconType="3" name="/IconosNormales/H5.png"/>
         </Property>
         <Property name="requestFocusEnabled" type="boolean" value="false"/>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/H125.png"/>
+          <Image iconType="3" name="/IconosGrandes/H125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2930,10 +2932,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Cl5.png"/>
+          <Image iconType="3" name="/IconosNormales/Cl5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Cl125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Cl125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2955,10 +2957,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/He5.png"/>
+          <Image iconType="3" name="/IconosNormales/He5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/He125.png"/>
+          <Image iconType="3" name="/IconosGrandes/He125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -2980,10 +2982,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/F5.png"/>
+          <Image iconType="3" name="/IconosNormales/F5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/F125.png"/>
+          <Image iconType="3" name="/IconosGrandes/F125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -3005,10 +3007,10 @@
         </Property>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="pressedIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ne5.png"/>
+          <Image iconType="3" name="/IconosNormales/Ne5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Ne125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Ne125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -3058,7 +3060,7 @@
           <Image iconType="3" name="/IconosNormales/Lr5.png"/>
         </Property>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/TablaPeriodica/Lr125.png"/>
+          <Image iconType="3" name="/IconosGrandes/Lr125.png"/>
         </Property>
       </Properties>
       <Events>
@@ -3767,6 +3769,7 @@
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
           <Image iconType="3" name="/Imagenes/AZULCLARO.png"/>
         </Property>
+        <Property name="borderPainted" type="boolean" value="false"/>
         <Property name="contentAreaFilled" type="boolean" value="false"/>
         <Property name="rolloverIcon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
           <Image iconType="3" name="/Imagenes/AZULCLARO2.png"/>

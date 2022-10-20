@@ -272,8 +272,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/S5.png"))); // NOI18N
         jButton3.setBorder(null);
         jButton3.setContentAreaFilled(false);
-        jButton3.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/S5.png"))); // NOI18N
-        jButton3.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/S125.png"))); // NOI18N
+        jButton3.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/S5.png"))); // NOI18N
+        jButton3.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/S125.png"))); // NOI18N
         jButton3.setVerticalTextPosition(javax.swing.SwingConstants.BOTTOM);
         jButton3.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -290,8 +290,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Li5.png"))); // NOI18N
         jButton4.setBorder(null);
         jButton4.setContentAreaFilled(false);
-        jButton4.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Li5.png"))); // NOI18N
-        jButton4.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Li125.png"))); // NOI18N
+        jButton4.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Li5.png"))); // NOI18N
+        jButton4.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Li125.png"))); // NOI18N
         jButton4.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jButton4MouseClicked(evt);
@@ -307,8 +307,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ca5.png"))); // NOI18N
         jButton5.setBorder(null);
         jButton5.setContentAreaFilled(false);
-        jButton5.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ca5.png"))); // NOI18N
-        jButton5.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ca125.png"))); // NOI18N
+        jButton5.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ca5.png"))); // NOI18N
+        jButton5.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Ca125.png"))); // NOI18N
         jButton5.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton5ActionPerformed(evt);
@@ -319,8 +319,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/k5.png"))); // NOI18N
         jButton6.setBorder(null);
         jButton6.setContentAreaFilled(false);
-        jButton6.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/k5.png"))); // NOI18N
-        jButton6.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/k125.png"))); // NOI18N
+        jButton6.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/k5.png"))); // NOI18N
+        jButton6.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/k125.png"))); // NOI18N
         jButton6.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton6ActionPerformed(evt);
@@ -331,8 +331,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Fr5.png"))); // NOI18N
         jButton7.setBorder(null);
         jButton7.setContentAreaFilled(false);
-        jButton7.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Fr5.png"))); // NOI18N
-        jButton7.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Fr125.png"))); // NOI18N
+        jButton7.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Fr5.png"))); // NOI18N
+        jButton7.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Fr125.png"))); // NOI18N
         jButton7.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton7ActionPerformed(evt);
@@ -343,8 +343,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Rb5.png"))); // NOI18N
         jButton8.setBorder(null);
         jButton8.setContentAreaFilled(false);
-        jButton8.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Rb5.png"))); // NOI18N
-        jButton8.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Rb125.png"))); // NOI18N
+        jButton8.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Rb5.png"))); // NOI18N
+        jButton8.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Rb125.png"))); // NOI18N
         jButton8.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton8ActionPerformed(evt);
@@ -355,8 +355,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton9.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Rh5.png"))); // NOI18N
         jButton9.setBorder(null);
         jButton9.setContentAreaFilled(false);
-        jButton9.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Rh5.png"))); // NOI18N
-        jButton9.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Rh125.png"))); // NOI18N
+        jButton9.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Rh5.png"))); // NOI18N
+        jButton9.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Rh125.png"))); // NOI18N
         jButton9.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton9ActionPerformed(evt);
@@ -367,8 +367,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Cs5.png"))); // NOI18N
         jButton10.setBorder(null);
         jButton10.setContentAreaFilled(false);
-        jButton10.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Cs5.png"))); // NOI18N
-        jButton10.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Cs125.png"))); // NOI18N
+        jButton10.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Cs5.png"))); // NOI18N
+        jButton10.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Cs125.png"))); // NOI18N
         jButton10.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton10ActionPerformed(evt);
@@ -379,8 +379,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ba5.png"))); // NOI18N
         jButton11.setBorder(null);
         jButton11.setContentAreaFilled(false);
-        jButton11.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ba15.png"))); // NOI18N
-        jButton11.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ba125.png"))); // NOI18N
+        jButton11.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ba15.png"))); // NOI18N
+        jButton11.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Ba125.png"))); // NOI18N
         jButton11.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton11ActionPerformed(evt);
@@ -391,8 +391,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton12.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ra5.png"))); // NOI18N
         jButton12.setBorder(null);
         jButton12.setContentAreaFilled(false);
-        jButton12.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ra5.png"))); // NOI18N
-        jButton12.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ra125.png"))); // NOI18N
+        jButton12.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ra5.png"))); // NOI18N
+        jButton12.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Ra125.png"))); // NOI18N
         jButton12.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton12ActionPerformed(evt);
@@ -415,8 +415,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton14.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ti5.png"))); // NOI18N
         jButton14.setBorder(null);
         jButton14.setContentAreaFilled(false);
-        jButton14.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ti5.png"))); // NOI18N
-        jButton14.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ti125.png"))); // NOI18N
+        jButton14.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ti5.png"))); // NOI18N
+        jButton14.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Ti125.png"))); // NOI18N
         jButton14.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton14ActionPerformed(evt);
@@ -427,8 +427,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton15.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Hf5.png"))); // NOI18N
         jButton15.setBorder(null);
         jButton15.setContentAreaFilled(false);
-        jButton15.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Hf5.png"))); // NOI18N
-        jButton15.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Hf125.png"))); // NOI18N
+        jButton15.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Hf5.png"))); // NOI18N
+        jButton15.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Hf125.png"))); // NOI18N
         jButton15.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton15ActionPerformed(evt);
@@ -763,8 +763,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton44.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Y5.png"))); // NOI18N
         jButton44.setBorder(null);
         jButton44.setContentAreaFilled(false);
-        jButton44.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Y5.png"))); // NOI18N
-        jButton44.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Y125.png"))); // NOI18N
+        jButton44.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Y5.png"))); // NOI18N
+        jButton44.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Y125.png"))); // NOI18N
         jButton44.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton44ActionPerformed(evt);
@@ -790,8 +790,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton47.setIcon(new javax.swing.ImageIcon(getClass().getResource("/JavaApplication190/Zr5.png"))); // NOI18N
         jButton47.setBorder(null);
         jButton47.setContentAreaFilled(false);
-        jButton47.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Zr5.png"))); // NOI18N
-        jButton47.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Zr125.png"))); // NOI18N
+        jButton47.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Zr5.png"))); // NOI18N
+        jButton47.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Zr125.png"))); // NOI18N
         jButton47.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton47ActionPerformed(evt);
@@ -802,8 +802,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton48.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Sr5.png"))); // NOI18N
         jButton48.setBorder(null);
         jButton48.setContentAreaFilled(false);
-        jButton48.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Sr5.png"))); // NOI18N
-        jButton48.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Sr125.png"))); // NOI18N
+        jButton48.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Sr5.png"))); // NOI18N
+        jButton48.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Sr125.png"))); // NOI18N
         jButton48.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton48ActionPerformed(evt);
@@ -814,8 +814,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton49.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Mg5.png"))); // NOI18N
         jButton49.setBorder(null);
         jButton49.setContentAreaFilled(false);
-        jButton49.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Mg5.png"))); // NOI18N
-        jButton49.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Mg125.png"))); // NOI18N
+        jButton49.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Mg5.png"))); // NOI18N
+        jButton49.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Mg125.png"))); // NOI18N
         jButton49.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton49ActionPerformed(evt);
@@ -826,8 +826,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton50.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Rf5.png"))); // NOI18N
         jButton50.setBorder(null);
         jButton50.setContentAreaFilled(false);
-        jButton50.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Rf5.png"))); // NOI18N
-        jButton50.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Rf125.png"))); // NOI18N
+        jButton50.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Rf5.png"))); // NOI18N
+        jButton50.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Rf125.png"))); // NOI18N
         jButton50.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton50ActionPerformed(evt);
@@ -838,8 +838,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton51.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/V5.png"))); // NOI18N
         jButton51.setBorder(null);
         jButton51.setContentAreaFilled(false);
-        jButton51.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/V5.png"))); // NOI18N
-        jButton51.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/V125.png"))); // NOI18N
+        jButton51.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/V5.png"))); // NOI18N
+        jButton51.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/V125.png"))); // NOI18N
         jButton51.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton51ActionPerformed(evt);
@@ -850,8 +850,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton52.setIcon(new javax.swing.ImageIcon(getClass().getResource("/JavaApplication190/Nb5.png"))); // NOI18N
         jButton52.setBorder(null);
         jButton52.setContentAreaFilled(false);
-        jButton52.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Nb5.png"))); // NOI18N
-        jButton52.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Nb125.png"))); // NOI18N
+        jButton52.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Nb5.png"))); // NOI18N
+        jButton52.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Nb125.png"))); // NOI18N
         jButton52.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton52ActionPerformed(evt);
@@ -862,8 +862,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton53.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ta5.png"))); // NOI18N
         jButton53.setBorder(null);
         jButton53.setContentAreaFilled(false);
-        jButton53.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ta5.png"))); // NOI18N
-        jButton53.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ta125.png"))); // NOI18N
+        jButton53.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ta5.png"))); // NOI18N
+        jButton53.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Ta125.png"))); // NOI18N
         jButton53.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton53ActionPerformed(evt);
@@ -874,9 +874,9 @@ imagenfondo Imagen=new imagenfondo();
         jButton54.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Na5.png"))); // NOI18N
         jButton54.setBorder(null);
         jButton54.setContentAreaFilled(false);
-        jButton54.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Na5.png"))); // NOI18N
+        jButton54.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Na5.png"))); // NOI18N
         jButton54.setRequestFocusEnabled(false);
-        jButton54.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Na125.png"))); // NOI18N
+        jButton54.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Na125.png"))); // NOI18N
         jButton54.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton54ActionPerformed(evt);
@@ -887,8 +887,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton55.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Cr5.png"))); // NOI18N
         jButton55.setBorder(null);
         jButton55.setContentAreaFilled(false);
-        jButton55.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Cr5.png"))); // NOI18N
-        jButton55.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Cr125.png"))); // NOI18N
+        jButton55.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Cr5.png"))); // NOI18N
+        jButton55.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Cr125.png"))); // NOI18N
         jButton55.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton55ActionPerformed(evt);
@@ -899,8 +899,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton56.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Mo5.png"))); // NOI18N
         jButton56.setBorder(null);
         jButton56.setContentAreaFilled(false);
-        jButton56.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Mo5.png"))); // NOI18N
-        jButton56.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Mo125.png"))); // NOI18N
+        jButton56.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Mo5.png"))); // NOI18N
+        jButton56.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Mo125.png"))); // NOI18N
         jButton56.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton56ActionPerformed(evt);
@@ -911,8 +911,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton57.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/W5.png"))); // NOI18N
         jButton57.setBorder(null);
         jButton57.setContentAreaFilled(false);
-        jButton57.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/W5.png"))); // NOI18N
-        jButton57.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/W125.png"))); // NOI18N
+        jButton57.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/W5.png"))); // NOI18N
+        jButton57.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/W125.png"))); // NOI18N
         jButton57.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton57ActionPerformed(evt);
@@ -923,8 +923,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton58.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Cd5.png"))); // NOI18N
         jButton58.setBorder(null);
         jButton58.setContentAreaFilled(false);
-        jButton58.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Cd5.png"))); // NOI18N
-        jButton58.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Cd125.png"))); // NOI18N
+        jButton58.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Cd5.png"))); // NOI18N
+        jButton58.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Cd125.png"))); // NOI18N
         jButton58.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton58ActionPerformed(evt);
@@ -935,8 +935,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton59.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Be5.png"))); // NOI18N
         jButton59.setBorder(null);
         jButton59.setContentAreaFilled(false);
-        jButton59.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Be5.png"))); // NOI18N
-        jButton59.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Be125.png"))); // NOI18N
+        jButton59.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Be5.png"))); // NOI18N
+        jButton59.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Be125.png"))); // NOI18N
         jButton59.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton59ActionPerformed(evt);
@@ -945,10 +945,12 @@ imagenfondo Imagen=new imagenfondo();
         getContentPane().add(jButton59, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 340, 90, 90));
 
         jButton60.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Re5.png"))); // NOI18N
+        jButton60.setAutoscrolls(true);
         jButton60.setBorder(null);
         jButton60.setContentAreaFilled(false);
-        jButton60.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Re5.png"))); // NOI18N
-        jButton60.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Re125.png"))); // NOI18N
+        jButton60.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Re5.png"))); // NOI18N
+        jButton60.setRolloverEnabled(false);
+        jButton60.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Re125.png"))); // NOI18N
         jButton60.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton60ActionPerformed(evt);
@@ -959,8 +961,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton61.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Tc5.png"))); // NOI18N
         jButton61.setBorder(null);
         jButton61.setContentAreaFilled(false);
-        jButton61.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Tc5.png"))); // NOI18N
-        jButton61.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Tc125.png"))); // NOI18N
+        jButton61.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Tc5.png"))); // NOI18N
+        jButton61.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Tc125.png"))); // NOI18N
         jButton61.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton61ActionPerformed(evt);
@@ -971,8 +973,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton62.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Mn5.png"))); // NOI18N
         jButton62.setBorder(null);
         jButton62.setContentAreaFilled(false);
-        jButton62.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Mn5.png"))); // NOI18N
-        jButton62.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Mn125.png"))); // NOI18N
+        jButton62.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Mn5.png"))); // NOI18N
+        jButton62.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Mn125.png"))); // NOI18N
         jButton62.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton62ActionPerformed(evt);
@@ -983,7 +985,7 @@ imagenfondo Imagen=new imagenfondo();
         jButton63.setIcon(new javax.swing.ImageIcon(getClass().getResource("/JavaApplication190/Fe5.png"))); // NOI18N
         jButton63.setBorder(null);
         jButton63.setContentAreaFilled(false);
-        jButton63.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Fe125.png"))); // NOI18N
+        jButton63.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Fe125.png"))); // NOI18N
         jButton63.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton63ActionPerformed(evt);
@@ -994,8 +996,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton64.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ru5.png"))); // NOI18N
         jButton64.setBorder(null);
         jButton64.setContentAreaFilled(false);
-        jButton64.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ru5.png"))); // NOI18N
-        jButton64.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ru125.png"))); // NOI18N
+        jButton64.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ru5.png"))); // NOI18N
+        jButton64.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Ru125.png"))); // NOI18N
         jButton64.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton64ActionPerformed(evt);
@@ -1006,8 +1008,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton65.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Os5.png"))); // NOI18N
         jButton65.setBorder(null);
         jButton65.setContentAreaFilled(false);
-        jButton65.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Os5.png"))); // NOI18N
-        jButton65.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Os125.png"))); // NOI18N
+        jButton65.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Os5.png"))); // NOI18N
+        jButton65.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Os125.png"))); // NOI18N
         jButton65.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton65ActionPerformed(evt);
@@ -1018,8 +1020,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton66.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Sg5.png"))); // NOI18N
         jButton66.setBorder(null);
         jButton66.setContentAreaFilled(false);
-        jButton66.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Sg5.png"))); // NOI18N
-        jButton66.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Sg125.png"))); // NOI18N
+        jButton66.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Sg5.png"))); // NOI18N
+        jButton66.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Sg125.png"))); // NOI18N
         jButton66.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton66ActionPerformed(evt);
@@ -1030,8 +1032,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton67.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Co5.png"))); // NOI18N
         jButton67.setBorder(null);
         jButton67.setContentAreaFilled(false);
-        jButton67.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Co5.png"))); // NOI18N
-        jButton67.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Co125.png"))); // NOI18N
+        jButton67.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Co5.png"))); // NOI18N
+        jButton67.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Co125.png"))); // NOI18N
         jButton67.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton67ActionPerformed(evt);
@@ -1042,8 +1044,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton68.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Db5.png"))); // NOI18N
         jButton68.setBorder(null);
         jButton68.setContentAreaFilled(false);
-        jButton68.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Db5.png"))); // NOI18N
-        jButton68.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Db125.png"))); // NOI18N
+        jButton68.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Db5.png"))); // NOI18N
+        jButton68.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Db125.png"))); // NOI18N
         jButton68.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton68ActionPerformed(evt);
@@ -1054,8 +1056,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton69.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ir5.png"))); // NOI18N
         jButton69.setBorder(null);
         jButton69.setContentAreaFilled(false);
-        jButton69.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ir5.png"))); // NOI18N
-        jButton69.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ir125.png"))); // NOI18N
+        jButton69.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ir5.png"))); // NOI18N
+        jButton69.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Ir125.png"))); // NOI18N
         jButton69.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton69ActionPerformed(evt);
@@ -1066,8 +1068,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton70.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Mt5.png"))); // NOI18N
         jButton70.setBorder(null);
         jButton70.setContentAreaFilled(false);
-        jButton70.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Mt5.png"))); // NOI18N
-        jButton70.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Mt125.png"))); // NOI18N
+        jButton70.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Mt5.png"))); // NOI18N
+        jButton70.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Mt125.png"))); // NOI18N
         jButton70.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton70ActionPerformed(evt);
@@ -1078,8 +1080,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton71.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ni5.png"))); // NOI18N
         jButton71.setBorder(null);
         jButton71.setContentAreaFilled(false);
-        jButton71.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ni5.png"))); // NOI18N
-        jButton71.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ni125.png"))); // NOI18N
+        jButton71.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ni5.png"))); // NOI18N
+        jButton71.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Ni125.png"))); // NOI18N
         jButton71.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton71ActionPerformed(evt);
@@ -1090,8 +1092,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton72.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Pd5.png"))); // NOI18N
         jButton72.setBorder(null);
         jButton72.setContentAreaFilled(false);
-        jButton72.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Pd5.png"))); // NOI18N
-        jButton72.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Pd125.png"))); // NOI18N
+        jButton72.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Pd5.png"))); // NOI18N
+        jButton72.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Pd125.png"))); // NOI18N
         jButton72.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton72ActionPerformed(evt);
@@ -1102,8 +1104,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton73.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Pt5.png"))); // NOI18N
         jButton73.setBorder(null);
         jButton73.setContentAreaFilled(false);
-        jButton73.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Pt5.png"))); // NOI18N
-        jButton73.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Pt125.png"))); // NOI18N
+        jButton73.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Pt5.png"))); // NOI18N
+        jButton73.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Pt125.png"))); // NOI18N
         jButton73.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton73ActionPerformed(evt);
@@ -1114,8 +1116,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton74.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ds5.png"))); // NOI18N
         jButton74.setBorder(null);
         jButton74.setContentAreaFilled(false);
-        jButton74.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ds5.png"))); // NOI18N
-        jButton74.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ds125.png"))); // NOI18N
+        jButton74.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ds5.png"))); // NOI18N
+        jButton74.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Ds125.png"))); // NOI18N
         jButton74.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton74ActionPerformed(evt);
@@ -1126,8 +1128,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton75.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Hs5.png"))); // NOI18N
         jButton75.setBorder(null);
         jButton75.setContentAreaFilled(false);
-        jButton75.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Hs5.png"))); // NOI18N
-        jButton75.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Hs125.png"))); // NOI18N
+        jButton75.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Hs5.png"))); // NOI18N
+        jButton75.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Hs125.png"))); // NOI18N
         jButton75.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton75ActionPerformed(evt);
@@ -1138,7 +1140,7 @@ imagenfondo Imagen=new imagenfondo();
         jButton76.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/AGG5.png"))); // NOI18N
         jButton76.setBorder(null);
         jButton76.setContentAreaFilled(false);
-        jButton76.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/AGG125.png"))); // NOI18N
+        jButton76.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/AGG125.png"))); // NOI18N
         jButton76.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton76ActionPerformed(evt);
@@ -1149,8 +1151,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton77.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Bh5.png"))); // NOI18N
         jButton77.setBorder(null);
         jButton77.setContentAreaFilled(false);
-        jButton77.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Bh5.png"))); // NOI18N
-        jButton77.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Bh125.png"))); // NOI18N
+        jButton77.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Bh5.png"))); // NOI18N
+        jButton77.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Bh125.png"))); // NOI18N
         jButton77.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton77ActionPerformed(evt);
@@ -1161,8 +1163,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton78.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Rg5.png"))); // NOI18N
         jButton78.setBorder(null);
         jButton78.setContentAreaFilled(false);
-        jButton78.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Rg5.png"))); // NOI18N
-        jButton78.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Rg125.png"))); // NOI18N
+        jButton78.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Rg5.png"))); // NOI18N
+        jButton78.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Rg125.png"))); // NOI18N
         jButton78.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton78ActionPerformed(evt);
@@ -1173,8 +1175,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton79.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Zn5.png"))); // NOI18N
         jButton79.setBorder(null);
         jButton79.setContentAreaFilled(false);
-        jButton79.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Zn5.png"))); // NOI18N
-        jButton79.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Zn125.png"))); // NOI18N
+        jButton79.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Zn5.png"))); // NOI18N
+        jButton79.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Zn125.png"))); // NOI18N
         jButton79.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton79ActionPerformed(evt);
@@ -1185,8 +1187,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton80.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Cu5.png"))); // NOI18N
         jButton80.setBorder(null);
         jButton80.setContentAreaFilled(false);
-        jButton80.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Cu5.png"))); // NOI18N
-        jButton80.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Cu125.png"))); // NOI18N
+        jButton80.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Cu5.png"))); // NOI18N
+        jButton80.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Cu125.png"))); // NOI18N
         jButton80.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton80ActionPerformed(evt);
@@ -1197,8 +1199,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton81.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Hg5.png"))); // NOI18N
         jButton81.setBorder(null);
         jButton81.setContentAreaFilled(false);
-        jButton81.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Hg5.png"))); // NOI18N
-        jButton81.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Hg125.png"))); // NOI18N
+        jButton81.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Hg5.png"))); // NOI18N
+        jButton81.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Hg125.png"))); // NOI18N
         jButton81.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton81ActionPerformed(evt);
@@ -1209,8 +1211,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton82.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Cn5.png"))); // NOI18N
         jButton82.setBorder(null);
         jButton82.setContentAreaFilled(false);
-        jButton82.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Cn5.png"))); // NOI18N
-        jButton82.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Cn125.png"))); // NOI18N
+        jButton82.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Cn5.png"))); // NOI18N
+        jButton82.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Cn125.png"))); // NOI18N
         jButton82.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton82ActionPerformed(evt);
@@ -1221,8 +1223,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton83.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Au5.png"))); // NOI18N
         jButton83.setBorder(null);
         jButton83.setContentAreaFilled(false);
-        jButton83.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Au5.png"))); // NOI18N
-        jButton83.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Au125.png"))); // NOI18N
+        jButton83.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Au5.png"))); // NOI18N
+        jButton83.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Au125.png"))); // NOI18N
         jButton83.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton83ActionPerformed(evt);
@@ -1233,8 +1235,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton84.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Sc5.png"))); // NOI18N
         jButton84.setBorder(null);
         jButton84.setContentAreaFilled(false);
-        jButton84.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Sc5.png"))); // NOI18N
-        jButton84.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Sc125.png"))); // NOI18N
+        jButton84.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Sc5.png"))); // NOI18N
+        jButton84.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Sc125.png"))); // NOI18N
         jButton84.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton84ActionPerformed(evt);
@@ -1245,8 +1247,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton85.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Sb6.png"))); // NOI18N
         jButton85.setBorder(null);
         jButton85.setContentAreaFilled(false);
-        jButton85.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Sb6.png"))); // NOI18N
-        jButton85.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Sb16.png"))); // NOI18N
+        jButton85.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Sb6.png"))); // NOI18N
+        jButton85.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Sb16.png"))); // NOI18N
         jButton85.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton85ActionPerformed(evt);
@@ -1257,8 +1259,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton86.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ga5.png"))); // NOI18N
         jButton86.setBorder(null);
         jButton86.setContentAreaFilled(false);
-        jButton86.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ga5.png"))); // NOI18N
-        jButton86.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ga125.png"))); // NOI18N
+        jButton86.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ga5.png"))); // NOI18N
+        jButton86.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Ga125.png"))); // NOI18N
         jButton86.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton86ActionPerformed(evt);
@@ -1269,8 +1271,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton87.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Nh5.png"))); // NOI18N
         jButton87.setBorder(null);
         jButton87.setContentAreaFilled(false);
-        jButton87.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Nh5.png"))); // NOI18N
-        jButton87.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Nh125.png"))); // NOI18N
+        jButton87.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Nh5.png"))); // NOI18N
+        jButton87.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Nh125.png"))); // NOI18N
         jButton87.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton87ActionPerformed(evt);
@@ -1281,7 +1283,7 @@ imagenfondo Imagen=new imagenfondo();
         jButton88.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/AL66.png"))); // NOI18N
         jButton88.setBorder(null);
         jButton88.setContentAreaFilled(false);
-        jButton88.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Al125.png"))); // NOI18N
+        jButton88.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Al125.png"))); // NOI18N
         jButton88.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton88ActionPerformed(evt);
@@ -1292,8 +1294,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton89.setIcon(new javax.swing.ImageIcon(getClass().getResource("/JavaApplication190/B8.png"))); // NOI18N
         jButton89.setBorder(null);
         jButton89.setContentAreaFilled(false);
-        jButton89.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/B8.png"))); // NOI18N
-        jButton89.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/B18.png"))); // NOI18N
+        jButton89.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/B7.png"))); // NOI18N
+        jButton89.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/B16.png"))); // NOI18N
         jButton89.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton89ActionPerformed(evt);
@@ -1304,8 +1306,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton90.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Sn5.png"))); // NOI18N
         jButton90.setBorder(null);
         jButton90.setContentAreaFilled(false);
-        jButton90.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Sn5.png"))); // NOI18N
-        jButton90.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Sn125.png"))); // NOI18N
+        jButton90.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Sn5.png"))); // NOI18N
+        jButton90.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Sn125.png"))); // NOI18N
         jButton90.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton90ActionPerformed(evt);
@@ -1316,8 +1318,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton91.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Fl5.png"))); // NOI18N
         jButton91.setBorder(null);
         jButton91.setContentAreaFilled(false);
-        jButton91.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Fl5.png"))); // NOI18N
-        jButton91.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Fl125.png"))); // NOI18N
+        jButton91.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Fl5.png"))); // NOI18N
+        jButton91.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Fl125.png"))); // NOI18N
         jButton91.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton91ActionPerformed(evt);
@@ -1328,8 +1330,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton92.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/As6.png"))); // NOI18N
         jButton92.setBorder(null);
         jButton92.setContentAreaFilled(false);
-        jButton92.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/As6.png"))); // NOI18N
-        jButton92.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/As16.png"))); // NOI18N
+        jButton92.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/As6.png"))); // NOI18N
+        jButton92.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/As16.png"))); // NOI18N
         jButton92.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton92ActionPerformed(evt);
@@ -1340,8 +1342,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton93.setIcon(new javax.swing.ImageIcon(getClass().getResource("/JavaApplication190/Ge6.png"))); // NOI18N
         jButton93.setBorder(null);
         jButton93.setContentAreaFilled(false);
-        jButton93.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ge6.png"))); // NOI18N
-        jButton93.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ge16.png"))); // NOI18N
+        jButton93.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ge6.png"))); // NOI18N
+        jButton93.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Ge16.png"))); // NOI18N
         jButton93.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton93ActionPerformed(evt);
@@ -1352,8 +1354,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton94.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Bi5.png"))); // NOI18N
         jButton94.setBorder(null);
         jButton94.setContentAreaFilled(false);
-        jButton94.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Bi5.png"))); // NOI18N
-        jButton94.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Bi125.png"))); // NOI18N
+        jButton94.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Bi5.png"))); // NOI18N
+        jButton94.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Bi125.png"))); // NOI18N
         jButton94.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton94ActionPerformed(evt);
@@ -1364,8 +1366,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton95.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Mc5.png"))); // NOI18N
         jButton95.setBorder(null);
         jButton95.setContentAreaFilled(false);
-        jButton95.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Mc5.png"))); // NOI18N
-        jButton95.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Mc125.png"))); // NOI18N
+        jButton95.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Mc5.png"))); // NOI18N
+        jButton95.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Mc125.png"))); // NOI18N
         jButton95.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton95ActionPerformed(evt);
@@ -1376,8 +1378,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton96.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Pb5.png"))); // NOI18N
         jButton96.setBorder(null);
         jButton96.setContentAreaFilled(false);
-        jButton96.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Pb5.png"))); // NOI18N
-        jButton96.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Pb125.png"))); // NOI18N
+        jButton96.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Pb5.png"))); // NOI18N
+        jButton96.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Pb125.png"))); // NOI18N
         jButton96.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton96ActionPerformed(evt);
@@ -1388,8 +1390,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton97.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Xe5.png"))); // NOI18N
         jButton97.setBorder(null);
         jButton97.setContentAreaFilled(false);
-        jButton97.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Xe5.png"))); // NOI18N
-        jButton97.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Xe125.png"))); // NOI18N
+        jButton97.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Xe5.png"))); // NOI18N
+        jButton97.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Xe125.png"))); // NOI18N
         jButton97.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton97ActionPerformed(evt);
@@ -1400,8 +1402,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton98.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Se5.png"))); // NOI18N
         jButton98.setBorder(null);
         jButton98.setContentAreaFilled(false);
-        jButton98.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Se5.png"))); // NOI18N
-        jButton98.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Se125.png"))); // NOI18N
+        jButton98.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Se5.png"))); // NOI18N
+        jButton98.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Se125.png"))); // NOI18N
         jButton98.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton98ActionPerformed(evt);
@@ -1412,8 +1414,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton99.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Te6.png"))); // NOI18N
         jButton99.setBorder(null);
         jButton99.setContentAreaFilled(false);
-        jButton99.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Te6.png"))); // NOI18N
-        jButton99.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Te16.png"))); // NOI18N
+        jButton99.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Te6.png"))); // NOI18N
+        jButton99.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Te16.png"))); // NOI18N
         jButton99.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton99ActionPerformed(evt);
@@ -1424,8 +1426,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton100.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Po6.png"))); // NOI18N
         jButton100.setBorder(null);
         jButton100.setContentAreaFilled(false);
-        jButton100.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Po6.png"))); // NOI18N
-        jButton100.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Po16.png"))); // NOI18N
+        jButton100.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Po6.png"))); // NOI18N
+        jButton100.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Po16.png"))); // NOI18N
         jButton100.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton100ActionPerformed(evt);
@@ -1436,8 +1438,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton101.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Lv5.png"))); // NOI18N
         jButton101.setBorder(null);
         jButton101.setContentAreaFilled(false);
-        jButton101.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Lv5.png"))); // NOI18N
-        jButton101.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Lv125.png"))); // NOI18N
+        jButton101.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Lv5.png"))); // NOI18N
+        jButton101.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Lv125.png"))); // NOI18N
         jButton101.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton101ActionPerformed(evt);
@@ -1448,7 +1450,7 @@ imagenfondo Imagen=new imagenfondo();
         jButton102.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/I5.png"))); // NOI18N
         jButton102.setBorder(null);
         jButton102.setContentAreaFilled(false);
-        jButton102.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/I25.png"))); // NOI18N
+        jButton102.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/I25.png"))); // NOI18N
         jButton102.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton102ActionPerformed(evt);
@@ -1459,8 +1461,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton103.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ts5.png"))); // NOI18N
         jButton103.setBorder(null);
         jButton103.setContentAreaFilled(false);
-        jButton103.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ts5.png"))); // NOI18N
-        jButton103.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ts125.png"))); // NOI18N
+        jButton103.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ts5.png"))); // NOI18N
+        jButton103.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Ts125.png"))); // NOI18N
         jButton103.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton103ActionPerformed(evt);
@@ -1471,8 +1473,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton104.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Kr5.png"))); // NOI18N
         jButton104.setBorder(null);
         jButton104.setContentAreaFilled(false);
-        jButton104.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Kr5.png"))); // NOI18N
-        jButton104.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Kr125.png"))); // NOI18N
+        jButton104.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Kr5.png"))); // NOI18N
+        jButton104.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Kr125.png"))); // NOI18N
         jButton104.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton104ActionPerformed(evt);
@@ -1483,8 +1485,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton105.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/BR5.png"))); // NOI18N
         jButton105.setBorder(null);
         jButton105.setContentAreaFilled(false);
-        jButton105.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/BR5.png"))); // NOI18N
-        jButton105.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/BR125.png"))); // NOI18N
+        jButton105.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/BR5.png"))); // NOI18N
+        jButton105.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/BR125.png"))); // NOI18N
         jButton105.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton105ActionPerformed(evt);
@@ -1495,8 +1497,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton106.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Rn5.png"))); // NOI18N
         jButton106.setBorder(null);
         jButton106.setContentAreaFilled(false);
-        jButton106.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Rn5.png"))); // NOI18N
-        jButton106.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Rn125.png"))); // NOI18N
+        jButton106.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Rn5.png"))); // NOI18N
+        jButton106.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Rn125.png"))); // NOI18N
         jButton106.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton106ActionPerformed(evt);
@@ -1507,8 +1509,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton107.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Og5.png"))); // NOI18N
         jButton107.setBorder(null);
         jButton107.setContentAreaFilled(false);
-        jButton107.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Og5.png"))); // NOI18N
-        jButton107.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Og125.png"))); // NOI18N
+        jButton107.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Og5.png"))); // NOI18N
+        jButton107.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Og125.png"))); // NOI18N
         jButton107.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton107ActionPerformed(evt);
@@ -1519,8 +1521,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton108.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/At5.png"))); // NOI18N
         jButton108.setBorder(null);
         jButton108.setContentAreaFilled(false);
-        jButton108.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/At5.png"))); // NOI18N
-        jButton108.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/At125.png"))); // NOI18N
+        jButton108.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/At5.png"))); // NOI18N
+        jButton108.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/At125.png"))); // NOI18N
         jButton108.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton108ActionPerformed(evt);
@@ -1531,8 +1533,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton109.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/p5.png"))); // NOI18N
         jButton109.setBorder(null);
         jButton109.setContentAreaFilled(false);
-        jButton109.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/p5.png"))); // NOI18N
-        jButton109.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/p125.png"))); // NOI18N
+        jButton109.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/JavaApplication190/p5.png"))); // NOI18N
+        jButton109.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/p125.png"))); // NOI18N
         jButton109.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton109ActionPerformed(evt);
@@ -1543,8 +1545,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton110.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/In5.png"))); // NOI18N
         jButton110.setBorder(null);
         jButton110.setContentAreaFilled(false);
-        jButton110.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/In5.png"))); // NOI18N
-        jButton110.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/In125.png"))); // NOI18N
+        jButton110.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/In5.png"))); // NOI18N
+        jButton110.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/In125.png"))); // NOI18N
         jButton110.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton110ActionPerformed(evt);
@@ -1555,8 +1557,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton111.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Tl5.png"))); // NOI18N
         jButton111.setBorder(null);
         jButton111.setContentAreaFilled(false);
-        jButton111.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Tl5.png"))); // NOI18N
-        jButton111.setSelectedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Tl125.png"))); // NOI18N
+        jButton111.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Tl5.png"))); // NOI18N
+        jButton111.setSelectedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Tl125.png"))); // NOI18N
         jButton111.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton111ActionPerformed(evt);
@@ -1567,8 +1569,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton112.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Si7.png"))); // NOI18N
         jButton112.setBorder(null);
         jButton112.setContentAreaFilled(false);
-        jButton112.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Si7.png"))); // NOI18N
-        jButton112.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Si17.png"))); // NOI18N
+        jButton112.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Si7.png"))); // NOI18N
+        jButton112.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Si16.png"))); // NOI18N
         jButton112.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton112ActionPerformed(evt);
@@ -1579,8 +1581,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton113.setIcon(new javax.swing.ImageIcon(getClass().getResource("/JavaApplication190/N5.png"))); // NOI18N
         jButton113.setBorder(null);
         jButton113.setContentAreaFilled(false);
-        jButton113.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/N5.png"))); // NOI18N
-        jButton113.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/N125.png"))); // NOI18N
+        jButton113.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/JavaApplication190/N5.png"))); // NOI18N
+        jButton113.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/N125.png"))); // NOI18N
         jButton113.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton113ActionPerformed(evt);
@@ -1591,8 +1593,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton114.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/C5.png"))); // NOI18N
         jButton114.setBorder(null);
         jButton114.setContentAreaFilled(false);
-        jButton114.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/C5.png"))); // NOI18N
-        jButton114.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/C125.png"))); // NOI18N
+        jButton114.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/C5.png"))); // NOI18N
+        jButton114.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/C125.png"))); // NOI18N
         jButton114.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton114ActionPerformed(evt);
@@ -1603,8 +1605,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton115.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ar5.png"))); // NOI18N
         jButton115.setBorder(null);
         jButton115.setContentAreaFilled(false);
-        jButton115.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ar5.png"))); // NOI18N
-        jButton115.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ar125.png"))); // NOI18N
+        jButton115.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ar5.png"))); // NOI18N
+        jButton115.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Ar125.png"))); // NOI18N
         jButton115.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton115ActionPerformed(evt);
@@ -1615,8 +1617,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton116.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/O5.png"))); // NOI18N
         jButton116.setBorder(null);
         jButton116.setContentAreaFilled(false);
-        jButton116.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/O5.png"))); // NOI18N
-        jButton116.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/O125.png"))); // NOI18N
+        jButton116.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/O5.png"))); // NOI18N
+        jButton116.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/O125.png"))); // NOI18N
         jButton116.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jButton116MouseClicked(evt);
@@ -1634,9 +1636,9 @@ imagenfondo Imagen=new imagenfondo();
         H.setToolTipText("");
         H.setBorder(null);
         H.setContentAreaFilled(false);
-        H.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/H5.png"))); // NOI18N
+        H.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/H5.png"))); // NOI18N
         H.setRequestFocusEnabled(false);
-        H.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/H125.png"))); // NOI18N
+        H.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/H125.png"))); // NOI18N
         H.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 HMouseClicked(evt);
@@ -1652,8 +1654,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton118.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Cl5.png"))); // NOI18N
         jButton118.setBorder(null);
         jButton118.setContentAreaFilled(false);
-        jButton118.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Cl5.png"))); // NOI18N
-        jButton118.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Cl125.png"))); // NOI18N
+        jButton118.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Cl5.png"))); // NOI18N
+        jButton118.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Cl125.png"))); // NOI18N
         jButton118.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton118ActionPerformed(evt);
@@ -1664,8 +1666,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton119.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/He5.png"))); // NOI18N
         jButton119.setBorder(null);
         jButton119.setContentAreaFilled(false);
-        jButton119.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/He5.png"))); // NOI18N
-        jButton119.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/He125.png"))); // NOI18N
+        jButton119.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/He5.png"))); // NOI18N
+        jButton119.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/He125.png"))); // NOI18N
         jButton119.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton119ActionPerformed(evt);
@@ -1676,8 +1678,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton120.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/F5.png"))); // NOI18N
         jButton120.setBorder(null);
         jButton120.setContentAreaFilled(false);
-        jButton120.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/F5.png"))); // NOI18N
-        jButton120.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/F125.png"))); // NOI18N
+        jButton120.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/F5.png"))); // NOI18N
+        jButton120.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/F125.png"))); // NOI18N
         jButton120.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton120ActionPerformed(evt);
@@ -1688,8 +1690,8 @@ imagenfondo Imagen=new imagenfondo();
         jButton121.setIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ne5.png"))); // NOI18N
         jButton121.setBorder(null);
         jButton121.setContentAreaFilled(false);
-        jButton121.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ne5.png"))); // NOI18N
-        jButton121.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Ne125.png"))); // NOI18N
+        jButton121.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Ne5.png"))); // NOI18N
+        jButton121.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Ne125.png"))); // NOI18N
         jButton121.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton121ActionPerformed(evt);
@@ -1713,7 +1715,7 @@ imagenfondo Imagen=new imagenfondo();
         jButton122.setBorder(null);
         jButton122.setContentAreaFilled(false);
         jButton122.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Lr5.png"))); // NOI18N
-        jButton122.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/Lr125.png"))); // NOI18N
+        jButton122.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Lr125.png"))); // NOI18N
         jButton122.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton122ActionPerformed(evt);
@@ -1951,6 +1953,7 @@ imagenfondo Imagen=new imagenfondo();
         getContentPane().add(jButton125, new org.netbeans.lib.awtextra.AbsoluteConstraints(590, 230, 80, 80));
 
         jButton129.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/AZULCLARO.png"))); // NOI18N
+        jButton129.setBorderPainted(false);
         jButton129.setContentAreaFilled(false);
         jButton129.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/AZULCLARO2.png"))); // NOI18N
         jButton129.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -2508,6 +2511,7 @@ imagenfondo Imagen=new imagenfondo();
         abrir.setVisible(true);
     }//GEN-LAST:event_jButton24ActionPerformed
 
+  
     private void jButton25ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton25ActionPerformed
   Eu abrir=new  Eu();
         abrir.setVisible(true);        // TODO add your handling code here:
@@ -3913,7 +3917,7 @@ imagenfondo Imagen=new imagenfondo();
 class imagenfondo extends JPanel{
     private Image imagen;
     public void paint(Graphics g){
-        imagen=new ImageIcon(getClass().getResource("fondo3.jpg")).getImage();
+        imagen=new ImageIcon(getClass().getResource("/Imagenes/fondo4.jpg")).getImage();
         g.drawImage(imagen,0,0,getWidth(),getHeight(),this);
         setOpaque(false);
         super.paint(g);
