@@ -55,8 +55,6 @@ imagenfondo Imagen=new imagenfondo();
         jScrollPane1 = new javax.swing.JScrollPane();
         jTextArea1 = new javax.swing.JTextArea();
         jLabel37 = new javax.swing.JLabel();
-        jLabel36 = new javax.swing.JLabel();
-        jLabel38 = new javax.swing.JLabel();
         jButton5 = new javax.swing.JButton();
         jButton7 = new javax.swing.JButton();
         jLabel8 = new javax.swing.JLabel();
@@ -209,12 +207,6 @@ imagenfondo Imagen=new imagenfondo();
         jLabel37.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 2));
         getContentPane().add(jLabel37, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 20, 280, 270));
 
-        jLabel36.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/descargar (4).jpg"))); // NOI18N
-        getContentPane().add(jLabel36, new org.netbeans.lib.awtextra.AbsoluteConstraints(790, 20, -1, -1));
-
-        jLabel38.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/descargar (1).png"))); // NOI18N
-        getContentPane().add(jLabel38, new org.netbeans.lib.awtextra.AbsoluteConstraints(1510, 20, -1, -1));
-
         jButton5.setFont(new java.awt.Font("Agency FB", 1, 36)); // NOI18N
         jButton5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/cerrar.png"))); // NOI18N
         jButton5.setText("Salir");
@@ -295,17 +287,6 @@ imagenfondo Imagen=new imagenfondo();
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    private void jTextArea1PropertyChange(java.beans.PropertyChangeEvent evt) {//GEN-FIRST:event_jTextArea1PropertyChange
-        // TODO add your handling code here:
-
-        jTextArea1.setText("El uso del actinio es casi \n"
-            + "exclusivo para investigaciones científicas. \n"
-            + "La radiactividad del actinio es del orden de \n"
-            + "150 veces la del radio, haciéndolo útil como \n"
-            + "fuente de neutrones; al margen de ello, no tiene \n"
-            + "aplicaciones industriales significativas.");
-    }//GEN-LAST:event_jTextArea1PropertyChange
-
     private void jButton5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton5ActionPerformed
         // TODO add your handling code here:
         System.exit(0);
@@ -317,6 +298,17 @@ imagenfondo Imagen=new imagenfondo();
         abrir.setVisible(true);
         this.dispose();
     }//GEN-LAST:event_jButton7ActionPerformed
+
+    private void jTextArea1PropertyChange(java.beans.PropertyChangeEvent evt) {//GEN-FIRST:event_jTextArea1PropertyChange
+        // TODO add your handling code here:
+
+        jTextArea1.setText("El uso del actinio es casi \n"
+            + "exclusivo para investigaciones científicas. \n"
+            + "La radiactividad del actinio es del orden de \n"
+            + "150 veces la del radio, haciéndolo útil como \n"
+            + "fuente de neutrones; al margen de ello, no tiene \n"
+            + "aplicaciones industriales significativas.");
+    }//GEN-LAST:event_jTextArea1PropertyChange
 
     /**
      * @param args the command line arguments
@@ -385,9 +377,7 @@ imagenfondo Imagen=new imagenfondo();
     private javax.swing.JLabel jLabel33;
     private javax.swing.JLabel jLabel34;
     private javax.swing.JLabel jLabel35;
-    private javax.swing.JLabel jLabel36;
     private javax.swing.JLabel jLabel37;
-    private javax.swing.JLabel jLabel38;
     private javax.swing.JLabel jLabel39;
     private javax.swing.JLabel jLabel4;
     private javax.swing.JLabel jLabel40;
