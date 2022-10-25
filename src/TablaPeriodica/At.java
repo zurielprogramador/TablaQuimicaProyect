@@ -156,7 +156,7 @@ imagenfondo Imagen=new imagenfondo();
         jLabel38.setIcon(new javax.swing.ImageIcon(getClass().getResource("/ModeloDeBorh/at.png"))); // NOI18N
         jLabel38.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 2));
 
-        jLabel42.setIcon(new javax.swing.ImageIcon(getClass().getResource("/ImagenesElementos/Actinio.jpg"))); // NOI18N
+        jLabel42.setIcon(new javax.swing.ImageIcon(getClass().getResource("/ImagenesElementos/Antimonio.jpg"))); // NOI18N
         jLabel42.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 2));
 
         jLabel3.setText("NÚMERO ATÓMICO:");

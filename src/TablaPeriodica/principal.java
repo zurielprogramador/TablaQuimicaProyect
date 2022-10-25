@@ -139,7 +139,7 @@ public class principal extends javax.swing.JFrame {
  class imagenfondo extends JPanel{
     private Image imagen;
     public void paint(Graphics g){
-        imagen=new ImageIcon(getClass().getResource("im.jpg")).getImage();
+        imagen=new ImageIcon(getClass().getResource("jonas.jpg")).getImage();
         g.drawImage(imagen,0,0,getWidth(),getHeight(),this);
         setOpaque(false);
         super.paint(g);
