@@ -25,7 +25,8 @@ public class azufre extends javax.swing.JFrame {
         this.setContentPane(Imagen);
         initComponents();
          
-        
+                   this.setExtendedState(this.MAXIMIZED_BOTH);
+
         
         
     

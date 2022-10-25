@@ -24,6 +24,8 @@ imagenfondo Imagen=new imagenfondo();
            this.setContentPane(Imagen);
         initComponents();
          setLocationRelativeTo(null);
+                    this.setExtendedState(this.MAXIMIZED_BOTH);
+
     }
 
     /**

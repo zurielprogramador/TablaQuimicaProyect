@@ -23,6 +23,8 @@ public class Li extends javax.swing.JFrame {
            this.setContentPane(Imagen);
         initComponents();
          setLocationRelativeTo(null);
+                    this.setExtendedState(this.MAXIMIZED_BOTH);
+
     }
 
     /**

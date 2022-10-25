@@ -23,6 +23,8 @@ imagenfondo Imagen=new imagenfondo();
     public Sc() {
         this.setContentPane(Imagen);
         initComponents();
+                   this.setExtendedState(this.MAXIMIZED_BOTH);
+
          setLocationRelativeTo(null);
     }
 
