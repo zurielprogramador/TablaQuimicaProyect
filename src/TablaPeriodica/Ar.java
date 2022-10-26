@@ -85,7 +85,7 @@ imagenfondo Imagen=new imagenfondo();
 
         jTextArea1.setEditable(false);
         jTextArea1.setColumns(20);
-        jTextArea1.setFont(new java.awt.Font("Agency FB", 1, 18)); // NOI18N
+        jTextArea1.setFont(new java.awt.Font("Agency FB", 1, 24)); // NOI18N
         jTextArea1.setRows(5);
         jTextArea1.addPropertyChangeListener(new java.beans.PropertyChangeListener() {
             public void propertyChange(java.beans.PropertyChangeEvent evt) {
@@ -94,7 +94,7 @@ imagenfondo Imagen=new imagenfondo();
         });
         jScrollPane1.setViewportView(jTextArea1);
 
-        getContentPane().add(jScrollPane1, new org.netbeans.lib.awtextra.AbsoluteConstraints(752, 313, 310, 170));
+        getContentPane().add(jScrollPane1, new org.netbeans.lib.awtextra.AbsoluteConstraints(690, 310, 470, 200));
 
         jLabel37.setIcon(new javax.swing.ImageIcon(getClass().getResource("/ImagenesElementos/Argon.jpg"))); // NOI18N
         jLabel37.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 2));
@@ -166,101 +166,131 @@ imagenfondo Imagen=new imagenfondo();
         jLabel41.setIcon(new javax.swing.ImageIcon(getClass().getResource("/TablaPeriodica/prg.jpg"))); // NOI18N
         getContentPane().add(jLabel41, new org.netbeans.lib.awtextra.AbsoluteConstraints(1432, 313, 400, 160));
 
-        jLabel38.setIcon(new javax.swing.ImageIcon(getClass().getResource("/ImagenesElementos/Argon.jpg"))); // NOI18N
+        jLabel38.setIcon(new javax.swing.ImageIcon(getClass().getResource("/ImagenesElementosUsos/argon2.jpg"))); // NOI18N
         jLabel38.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 2));
-        getContentPane().add(jLabel38, new org.netbeans.lib.awtextra.AbsoluteConstraints(788, 0, 280, 270));
+        getContentPane().add(jLabel38, new org.netbeans.lib.awtextra.AbsoluteConstraints(770, 10, 280, 270));
 
-        jLabel42.setIcon(new javax.swing.ImageIcon(getClass().getResource("/ModeloDeBorh/ar.png"))); // NOI18N
+        jLabel42.setIcon(new javax.swing.ImageIcon(getClass().getResource("/modelobohr/ar.png"))); // NOI18N
         jLabel42.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 2));
-        getContentPane().add(jLabel42, new org.netbeans.lib.awtextra.AbsoluteConstraints(1498, 0, 280, 270));
+        getContentPane().add(jLabel42, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 10, 280, 270));
 
+        jLabel14.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel14.setText("0");
         getContentPane().add(jLabel14, new org.netbeans.lib.awtextra.AbsoluteConstraints(346, 606, 19, -1));
 
+        jLabel24.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel24.setText("PUNTO DE EBULLICIÓN (ºC):");
         getContentPane().add(jLabel24, new org.netbeans.lib.awtextra.AbsoluteConstraints(26, 488, -1, -1));
 
+        jLabel34.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel34.setText("SERIE QUIMÍCA:");
         getContentPane().add(jLabel34, new org.netbeans.lib.awtextra.AbsoluteConstraints(26, 455, -1, 14));
 
+        jLabel3.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel3.setText("NÚMERO ATÓMICO:");
         getContentPane().add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(26, 351, -1, -1));
 
+        jLabel35.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel35.setText("No metales");
         getContentPane().add(jLabel35, new org.netbeans.lib.awtextra.AbsoluteConstraints(346, 454, 82, -1));
 
+        jLabel25.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel25.setText("PUNTO DE FUSIÓN (ºC): ");
         getContentPane().add(jLabel25, new org.netbeans.lib.awtextra.AbsoluteConstraints(26, 531, -1, -1));
 
+        jLabel4.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel4.setText("NOMBRE:");
         getContentPane().add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(26, 317, -1, -1));
 
+        jLabel26.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel26.setText("DESCUBRIDOR:");
         getContentPane().add(jLabel26, new org.netbeans.lib.awtextra.AbsoluteConstraints(27, 805, -1, -1));
 
+        jLabel5.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel5.setText("VALENCIA:");
         getContentPane().add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(26, 606, -1, -1));
 
+        jLabel27.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel27.setText("ESTADO:");
         getContentPane().add(jLabel27, new org.netbeans.lib.awtextra.AbsoluteConstraints(26, 385, -1, -1));
 
+        jLabel6.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel6.setText("ESTADO DE OXIDACIÓN:");
         getContentPane().add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(26, 640, -1, -1));
 
+        jLabel7.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel7.setText("ELECTRONEGATIVIDAD:");
         getContentPane().add(jLabel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(26, 674, -1, -1));
 
+        jLabel28.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel28.setText("Gaseoso");
         getContentPane().add(jLabel28, new org.netbeans.lib.awtextra.AbsoluteConstraints(346, 385, 60, -1));
 
+        jLabel29.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel29.setText("1.40");
         getContentPane().add(jLabel29, new org.netbeans.lib.awtextra.AbsoluteConstraints(346, 570, 50, -1));
 
+        jLabel15.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel15.setText("---");
         getContentPane().add(jLabel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(346, 640, 34, -1));
 
+        jLabel9.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel9.setText("RADIO ATÓMICO (Å):");
-        getContentPane().add(jLabel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(26, 703, 151, -1));
+        getContentPane().add(jLabel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(26, 703, 180, -1));
 
+        jLabel16.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel16.setText("---");
         getContentPane().add(jLabel16, new org.netbeans.lib.awtextra.AbsoluteConstraints(346, 674, 34, -1));
 
+        jLabel10.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel10.setText("CONFIGURACIÓN ELECTRÓNICA:");
         getContentPane().add(jLabel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(27, 737, -1, -1));
 
+        jLabel30.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel30.setText("18");
         getContentPane().add(jLabel30, new org.netbeans.lib.awtextra.AbsoluteConstraints(346, 351, 50, -1));
 
+        jLabel31.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel31.setText("-185.8  ");
-        getContentPane().add(jLabel31, new org.netbeans.lib.awtextra.AbsoluteConstraints(346, 488, 50, -1));
+        getContentPane().add(jLabel31, new org.netbeans.lib.awtextra.AbsoluteConstraints(346, 488, 60, -1));
 
+        jLabel19.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel19.setText("---");
         getContentPane().add(jLabel19, new org.netbeans.lib.awtextra.AbsoluteConstraints(346, 703, 34, -1));
 
+        jLabel11.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel11.setText("PRIMER POTENCIAL DE IONIZACIÓN(eV):");
         getContentPane().add(jLabel11, new org.netbeans.lib.awtextra.AbsoluteConstraints(27, 771, -1, -1));
 
+        jLabel20.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel20.setText("[Ne]3s23p6  ");
         getContentPane().add(jLabel20, new org.netbeans.lib.awtextra.AbsoluteConstraints(346, 739, 72, 14));
 
+        jLabel32.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel32.setText("-189.4");
         getContentPane().add(jLabel32, new org.netbeans.lib.awtextra.AbsoluteConstraints(346, 531, 50, -1));
 
+        jLabel21.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel21.setText("Sir Ramsay en 1894  ");
         getContentPane().add(jLabel21, new org.netbeans.lib.awtextra.AbsoluteConstraints(346, 805, 165, -1));
 
+        jLabel12.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel12.setText("Argón");
         getContentPane().add(jLabel12, new org.netbeans.lib.awtextra.AbsoluteConstraints(346, 317, -1, -1));
 
+        jLabel22.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel22.setText("MASA ATÓMICA (g/mol):");
         getContentPane().add(jLabel22, new org.netbeans.lib.awtextra.AbsoluteConstraints(26, 420, -1, -1));
 
+        jLabel33.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel33.setText("15.80");
         getContentPane().add(jLabel33, new org.netbeans.lib.awtextra.AbsoluteConstraints(346, 771, 34, -1));
 
+        jLabel23.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel23.setText("DENSIDAD (g/ml):");
         getContentPane().add(jLabel23, new org.netbeans.lib.awtextra.AbsoluteConstraints(26, 568, -1, 20));
 
+        jLabel13.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel13.setText("39,948  ");
         getContentPane().add(jLabel13, new org.netbeans.lib.awtextra.AbsoluteConstraints(346, 420, 60, -1));
 
@@ -270,12 +300,11 @@ imagenfondo Imagen=new imagenfondo();
     private void jTextArea1PropertyChange(java.beans.PropertyChangeEvent evt) {//GEN-FIRST:event_jTextArea1PropertyChange
         // TODO add your handling code here:
 
-        jTextArea1.setText("El uso del actinio es casi \n"
-            + "exclusivo para investigaciones científicas. \n"
-            + "La radiactividad del actinio es del orden de \n"
-            + "150 veces la del radio, haciéndolo útil como \n"
-            + "fuente de neutrones; al margen de ello, no tiene \n"
-            + "aplicaciones industriales significativas.");
+        jTextArea1.setText("El argón (Ar) es un gas de protección inerte. \n"
+                + "Utilizado en la industria para prevenir el contacto y \n"
+                + "la interacción entre el metal líquido y la atmósfera \n"
+                + "que lo rodea. Se trata del gas protector más utilizado \n"
+                + "en los procesos: TIG (tungsten inert gas), MIG y plasma.");
     }//GEN-LAST:event_jTextArea1PropertyChange
 
     private void jButton5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton5ActionPerformed
