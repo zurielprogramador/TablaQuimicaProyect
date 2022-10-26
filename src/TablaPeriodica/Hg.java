@@ -16,7 +16,7 @@ import javax.swing.JPanel;
  */
 public class Hg extends javax.swing.JFrame {
 imagenfondo Imagen=new imagenfondo();
-
+//
     /**
      * Creates new form Hg
      */
