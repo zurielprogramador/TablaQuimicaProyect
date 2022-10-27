@@ -949,7 +949,6 @@ imagenfondo Imagen=new imagenfondo();
         jButton60.setBorder(null);
         jButton60.setContentAreaFilled(false);
         jButton60.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosNormales/Re5.png"))); // NOI18N
-        jButton60.setRolloverEnabled(false);
         jButton60.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/IconosGrandes/Re125.png"))); // NOI18N
         jButton60.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -2117,18 +2116,17 @@ imagenfondo Imagen=new imagenfondo();
         jLabel50.setText("GASES NOBLES");
         getContentPane().add(jLabel50, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 260, -1, -1));
 
-        textbuscar.setBackground(new java.awt.Color(153, 153, 153));
+        textbuscar.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
         textbuscar.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED, null, java.awt.Color.gray, null, null));
         textbuscar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 textbuscarActionPerformed(evt);
             }
         });
-        getContentPane().add(textbuscar, new org.netbeans.lib.awtextra.AbsoluteConstraints(1480, 40, 160, 28));
+        getContentPane().add(textbuscar, new org.netbeans.lib.awtextra.AbsoluteConstraints(1460, 50, 220, 40));
 
-        buscar.setFont(new java.awt.Font("Tahoma", 3, 18)); // NOI18N
-        buscar.setForeground(new java.awt.Color(255, 255, 255));
-        buscar.setText("buscar");
+        buscar.setFont(new java.awt.Font("Tahoma", 3, 24)); // NOI18N
+        buscar.setText("Buscar");
         buscar.setBorderPainted(false);
         buscar.setContentAreaFilled(false);
         buscar.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
@@ -2143,7 +2141,7 @@ imagenfondo Imagen=new imagenfondo();
                 buscarActionPerformed(evt);
             }
         });
-        getContentPane().add(buscar, new org.netbeans.lib.awtextra.AbsoluteConstraints(1630, 40, -1, 30));
+        getContentPane().add(buscar, new org.netbeans.lib.awtextra.AbsoluteConstraints(1660, 40, 120, 60));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents

@@ -43,9 +43,9 @@ public class principal extends javax.swing.JFrame {
         setUndecorated(true);
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jLabel1.setFont(new java.awt.Font("Bodoni MT", 1, 48)); // NOI18N
-        jLabel1.setText("Sean bienvenidos a la tabla periódica");
-        getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 10, 770, 50));
+        jLabel1.setFont(new java.awt.Font("Bodoni MT Black", 1, 48)); // NOI18N
+        jLabel1.setText("Sean bienvenidos a la TecnoTabla");
+        getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 20, 1010, 50));
 
         jButton1.setFont(new java.awt.Font("Agency FB", 1, 24)); // NOI18N
         jButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/Tabla.png"))); // NOI18N
